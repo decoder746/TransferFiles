@@ -1,0 +1,4439 @@
+{
+    "1": {
+        "caption": "Google open house.",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais", "talk-title",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "10": {
+        "caption": "\"AI at Google Open House\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "slide",   "dais"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "100": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "101": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "102": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "103": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "104": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "105": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "106": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "107": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "108": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "109": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "11": {
+        "caption": "\"AI at Google Open House\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "slide",   "dais"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "110": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "111": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "112": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "113": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "114": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "115": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "116": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "117": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "118": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "119": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "12": {
+        "caption": "\"AI at Google Open House\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "slide",   "dais"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "120": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "121": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "122": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "123": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "124": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "125": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "slide",   "dais"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "126": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "slide",   "dais"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "127": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "slide",   "dais"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "128": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "slide",   "dais"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "129": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "slide",   "dais"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "13": {
+        "caption": "\"AI at Google Open House\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "slide",   "dais"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "130": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "slide",   "dais"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "131": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "slide",   "dais"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "132": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "slide",   "dais"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "133": {
+        "caption": "\"Google uses Bayesian......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "slide",   "dais"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "134": {
+        "caption": "\"Google uses Bayesian......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "slide",   "dais"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "135": {
+        "caption": "\"Google uses Bayesian......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "slide",   "dais"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "136": {
+        "caption": "\"Google uses Bayesian......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "137": {
+        "caption": "\"Google uses Bayesian......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "138": {
+        "caption": "\"Google uses Bayesian......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "139": {
+        "caption": "\"Google uses Bayesian......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "14": {
+        "caption": "\"AI at Google Open House\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "slide",   "dais"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "140": {
+        "caption": "\"Google uses Bayesian......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "141": {
+        "caption": "\"Google uses Bayesian......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "142": {
+        "caption": "\"Google uses Bayesian......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "143": {
+        "caption": "\"Google uses Bayesian......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "144": {
+        "caption": "\"Google uses Bayesian......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "145": {
+        "caption": "\"Google uses Bayesian......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "146": {
+        "caption": "\"Google uses Bayesian......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "147": {
+        "caption": "\"Google uses Bayesian......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "148": {
+        "caption": "\"Google uses Bayesian......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "149": {
+        "caption": "\"Google uses Bayesian......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "15": {
+        "caption": "\"AI at Google Open House\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "slide",   "dais"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "150": {
+        "caption": "\"Google uses Bayesian......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "151": {
+        "caption": "\"Google uses Bayesian......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "152": {
+        "caption": "\"Google uses Bayesian......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "153": {
+        "caption": "\"Google uses Bayesian......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "154": {
+        "caption": "\"Google uses Bayesian......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "155": {
+        "caption": "\"Google uses Bayesian......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "156": {
+        "caption": "\"Google uses Bayesian filtering......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "157": {
+        "caption": "\"Google uses Bayesian filtering......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "158": {
+        "caption": "\"Google uses Bayesian filtering......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "159": {
+        "caption": "\"Google uses Bayesian filtering......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "16": {
+        "caption": "\"AI at Google Open House\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "slide",   "dais"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "160": {
+        "caption": "\"Google uses Bayesian filtering......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "161": {
+        "caption": "\"Google uses Bayesian filtering......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "162": {
+        "caption": "\"Google uses Bayesian filtering......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "163": {
+        "caption": "\"Google uses Bayesian filtering......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "164": {
+        "caption": "\"Google uses Bayesian filtering......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "165": {
+        "caption": "\"Google uses Bayesian filtering......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "166": {
+        "caption": "\"Google uses Bayesian filtering......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "167": {
+        "caption": "\"Google uses Bayesian filtering......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "168": {
+        "caption": "\"Google uses Bayesian filtering......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "169": {
+        "caption": "\"Google uses Bayesian filtering......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "17": {
+        "caption": "\"AI at Google Open House\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "slide",   "dais"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "170": {
+        "caption": "\"Google uses Bayesian filtering......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "171": {
+        "caption": "\"Google uses Bayesian filtering......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "172": {
+        "caption": "\"Google uses Bayesian filtering......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "173": {
+        "caption": "\"Google uses Bayesian filtering......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "174": {
+        "caption": "\"Google uses Bayesian filtering......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "175": {
+        "caption": "\"Google uses Bayesian filtering......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "176": {
+        "caption": "\"Google uses Bayesian filtering......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "177": {
+        "caption": "\"Google uses Bayesian filtering......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "178": {
+        "caption": "\"Google uses Bayesian filtering......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "179": {
+        "caption": "\"Google uses Bayesian filtering......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "18": {
+        "caption": "\"AI at Google Open House\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "slide",   "dais"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "180": {
+        "caption": "\"Google uses Bayesian filtering......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "181": {
+        "caption": "\"Google uses Bayesian filtering......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "182": {
+        "caption": "\"Google uses Bayesian filtering......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "183": {
+        "caption": "\"Google uses Bayesian filtering......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "184": {
+        "caption": "\"Google uses Bayesian filtering......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "185": {
+        "caption": "\"Google uses Bayesian filtering......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "186": {
+        "caption": "\"Google uses Bayesian filtering......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "187": {
+        "caption": "\"Google uses Bayesian filtering......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "188": {
+        "caption": "\"Google uses Bayesian filtering......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "189": {
+        "caption": "\"Google uses Bayesian filtering......if statement\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "19": {
+        "caption": "\"AI at Google Open House\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "slide",   "dais"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "190": {
+        "caption": "\"(1) Data\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "191": {
+        "caption": "\"(1) Data\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "192": {
+        "caption": "\"(1) Data\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "193": {
+        "caption": "\"(1) Data\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "194": {
+        "caption": "\"(1) Data\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "195": {
+        "caption": "\"(1) Data\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "196": {
+        "caption": "\"Data (LDC N-Grams)\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "197": {
+        "caption": "\"Data (LDC N-Grams)\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "198": {
+        "caption": "\"Data (LDC N-Grams)\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "199": {
+        "caption": "\"Data (LDC N-Grams)\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "2": {
+        "caption": "\"AI at Google Open House\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "slide",   "dais"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "20": {
+        "caption": "Past,Present.......PETER NORVIG",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "200": {
+        "caption": "\"Data (LDC N-Grams)\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "201": {
+        "caption": "\"Data (LDC N-Grams)\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "202": {
+        "caption": "\"Data (LDC N-Grams)\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "203": {
+        "caption": "\"Data (LDC N-Grams)\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "204": {
+        "caption": "\"Empirically-Based.....Models\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "205": {
+        "caption": "\"Empirically-Based.....Models\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "206": {
+        "caption": "\"Empirically-Based.....Models\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "207": {
+        "caption": "\"Empirically-Based.....Models\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "208": {
+        "caption": "\"Empirically-Based.....Models\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "209": {
+        "caption": "\"Empirically-Based.....Models\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "21": {
+        "caption": "Past,Present.......PETER NORVIG",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "210": {
+        "caption": "\"Empirically-Based.....Models\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "211": {
+        "caption": "\"The Count COUNTS\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "212": {
+        "caption": "\"The Count COUNTS\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "213": {
+        "caption": "\"The Count COUNTS\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "214": {
+        "caption": "\"The Count COUNTS\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "215": {
+        "caption": "\"The Count COUNTS\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "216": {
+        "caption": "\"The Count COUNTS\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "217": {
+        "caption": "\"The Count COUNTS\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "218": {
+        "caption": "\"The Count COUNTS\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "219": {
+        "caption": "\"(2)Scale\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "22": {
+        "caption": "Past,Present.......PETER NORVIG",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "220": {
+        "caption": "\"(2)Scale\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "221": {
+        "caption": "\"(2)Scale\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "222": {
+        "caption": "\"(2)Scale\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "223": {
+        "caption": "\"(2)Scale\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "224": {
+        "caption": "\"(2)Scale\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "225": {
+        "caption": "\"(2)Scale\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "226": {
+        "caption": "\"(2)Scale\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "227": {
+        "caption": "\"(2)Scale\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "228": {
+        "caption": "\"(2)Scale\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "229": {
+        "caption": "\"(2)Scale\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "23": {
+        "caption": "Past,Present.......PETER NORVIG",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "230": {
+        "caption": "\"(2)Scale\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "231": {
+        "caption": "\"(2)Scale\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "232": {
+        "caption": "\"(2)Scale\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "233": {
+        "caption": "\"(2)Scale\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "234": {
+        "caption": "\"(2)Scale\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "235": {
+        "caption": "\"(2)Scale\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "236": {
+        "caption": "\"(2)Scale\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "237": {
+        "caption": "\"(2)Scale\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "238": {
+        "caption": "\"(2)Scale\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "239": {
+        "caption": "\"(2)Scale\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "24": {
+        "caption": "Past,Present.......PETER NORVIG",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "240": {
+        "caption": "\"(2)Scale\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "241": {
+        "caption": "\"(2)Scale\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "242": {
+        "caption": "\"(2)Scale\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "243": {
+        "caption": "\"(2)Scale\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "244": {
+        "caption": "\"(2)Scale\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "245": {
+        "caption": "\"(2)Scale\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "246": {
+        "caption": "\"(2)Scale\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "247": {
+        "caption": "\"(2)Scale\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "248": {
+        "caption": "\"(2)Scale\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "249": {
+        "caption": "\"(2)Scale\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "25": {
+        "caption": "Past,Present.......PETER NORVIG",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "250": {
+        "caption": "\"(2)Scale\" & \"(3) Control\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "251": {
+        "caption": "\"(3) Control\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "252": {
+        "caption": "\"(3) Control\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "253": {
+        "caption": "\"(3) Control\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "254": {
+        "caption": "\"(3) Control\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "255": {
+        "caption": "\"(3) Control\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "256": {
+        "caption": "\"(3) Control\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "257": {
+        "caption": "\"(3) Control\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "258": {
+        "caption": "\"(3) Control\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "259": {
+        "caption": "\"(3) Control\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "26": {
+        "caption": "Past,Present.......PETER NORVIG",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "260": {
+        "caption": "\"(3) Control\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "261": {
+        "caption": "\"(3) Control\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "262": {
+        "caption": "\"(3) Control\"&\"Experimentation\"-MSN Real Estate",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "263": {
+        "caption": "           \"Experimentation\"                \"MSN Real Estate\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "264": {
+        "caption": "           \"Experimentation\"                \"MSN Real Estate\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "265": {
+        "caption": "           \"Experimentation\"                \"MSN Real Estate\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "266": {
+        "caption": "           \"Experimentation\"                \"MSN Real Estate\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "267": {
+        "caption": "           \"Experimentation\"                \"MSN Real Estate\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "268": {
+        "caption": "           \"Experimentation\"                \"MSN Real Estate\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "269": {
+        "caption": "           \"Experimentation\"                \"MSN Real Estate\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "27": {
+        "caption": "Past,Present.......PETER NORVIG",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "270": {
+        "caption": "           \"Experimentation\"                \"MSN Real Estate\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "271": {
+        "caption": "           \"Experimentation\"                \"MSN Real Estate\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "272": {
+        "caption": "           \"Experimentation\"                \"MSN Real Estate\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "273": {
+        "caption": "           \"Experimentation\"                \"MSN Real Estate\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "274": {
+        "caption": "           \"Experimentation\"                \"MSN Real Estate\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "275": {
+        "caption": "           \"Experimentation\"                \"MSN Real Estate\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "276": {
+        "caption": "           \"Experimentation\"                \"MSN Real Estate\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "277": {
+        "caption": "           \"Experimentation\"                \"MSN Real Estate\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "278": {
+        "caption": "           \"Experimentation\"                \"MSN Real Estate\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "279": {
+        "caption": "           \"Experimentation\"                \"MSN Real Estate\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "28": {
+        "caption": "Past,Present.......PETER NORVIG",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "280": {
+        "caption": "           \"Experimentation\"                \"MSN Real Estate\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "281": {
+        "caption": "           \"Experimentation\"                \"MSN Real Estate\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "282": {
+        "caption": "           \"Experimentation\"                \"MSN Real Estate\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "283": {
+        "caption": "           \"Experimentation\"                \"MSN Real Estate\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "284": {
+        "caption": "           \"Experimentation\"                \"MSN Real Estate\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "285": {
+        "caption": "           \"Experimentation\"                \"MSN Real Estate\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "286": {
+        "caption": "           \"Experimentation\"                \"MSN Real Estate\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "287": {
+        "caption": "           \"Experimentation\"                \"MSN Real Estate\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "288": {
+        "caption": "           \"Experimentation\"                \"MSN Real Estate\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "289": {
+        "caption": "           \"Experimentation\"                \"MSN Real Estate\"&\"Office Online\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "29": {
+        "caption": "\"Past,Present.......PETER NORVIG\"&\"The ultimate .....in the world.\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "slide",   "dais"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "290": {
+        "caption": "           \"Experimentation\"              \"Office Online\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "291": {
+        "caption": "           \"Experimentation\"              \"Office Online\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "292": {
+        "caption": "           \"Experimentation\"              \"Office Online\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "293": {
+        "caption": "           \"Experimentation\"              \"Office Online\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "294": {
+        "caption": "           \"Experimentation\"              \"Office Online\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "295": {
+        "caption": "           \"Experimentation\"              \"Office Online\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "296": {
+        "caption": "           \"Experimentation\"              \"Office Online\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "297": {
+        "caption": "           \"Experimentation\"              \"Office Online\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "298": {
+        "caption": "           \"Experimentation\"              \"Office Online\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "299": {
+        "caption": "           \"Experimentation\"              \"Office Online\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "3": {
+        "caption": "\"AI at Google Open House\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "slide",   "dais"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "30": {
+        "caption": "\"Ultimate......world.\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "300": {
+        "caption": "           \"Experimentation\"              \"Office Online\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "301": {
+        "caption": "           \"Experimentation\"              \"Office Online\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "302": {
+        "caption": "           \"Experimentation\"              \"Office Online\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "303": {
+        "caption": "           \"Experimentation\"              \"Office Online\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "304": {
+        "caption": "           \"Experimentation\"              \"Office Online\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "305": {
+        "caption": "           \"Experimentation\"              \"Office Online\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "306": {
+        "caption": "           \"Experimentation\"              \"Office Online\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "307": {
+        "caption": "           \"Experimentation\"              \"Office Online\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "308": {
+        "caption": "           \"Experimentation\"              \"Office Online\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "309": {
+        "caption": "\"Experimentational\"-\"Office Online\"&        \"Data Analytics\"Advertising ROI",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "31": {
+        "caption": "\"Ultimate......world.\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "310": {
+        "caption": "\"Data Analytics\"-Advertising ROI",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "311": {
+        "caption": "\"Data Analytics\"-Advertising ROI",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "312": {
+        "caption": "\"Data Analytics\"-Advertising ROI",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "313": {
+        "caption": "\"Data Analytics\"-Advertising ROI",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "314": {
+        "caption": "\"Data Analytics\"-Advertising ROI",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "315": {
+        "caption": "\"Data Analytics\"-Advertising ROI",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "316": {
+        "caption": "\"Data Analytics\"-Advertising ROI",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "317": {
+        "caption": "\"Data Analytics\"-Advertising ROI",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "318": {
+        "caption": "\"Data Analytics\"-Advertising ROI",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "319": {
+        "caption": "\"Data Analytics\"-Advertising ROI.&          \"Communication\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "32": {
+        "caption": "\"Ultimate......world.\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "320": {
+        "caption": "\"Communication\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "321": {
+        "caption": "\"Communication\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "322": {
+        "caption": "\"Communication\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "323": {
+        "caption": "\"Communication\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "324": {
+        "caption": "\"Communication\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "325": {
+        "caption": "\"Communication\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "326": {
+        "caption": "\"Communication\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "327": {
+        "caption": "\"Communication\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "328": {
+        "caption": "\"Communication\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "329": {
+        "caption": "\"Communication\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "33": {
+        "caption": "\"Ultimate......world.\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "330": {
+        "caption": "\"Communication\"&\"Etc\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "331": {
+        "caption": "\"Etc\"....\"Spam\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "332": {
+        "caption": "\"Etc\"....\"Spam\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "333": {
+        "caption": "\"Etc\"....\"Spam\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "334": {
+        "caption": "\"Etc\"....\"Spam\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "335": {
+        "caption": "\"Etc\"....\"Spam\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "336": {
+        "caption": "\"Etc\"....\"Spam\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "337": {
+        "caption": "\"Etc\"....\"Spam\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "338": {
+        "caption": "\"Etc\"....\"Spam\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "339": {
+        "caption": "\"Etc\"....\"Spam\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "34": {
+        "caption": "\"Ultimate......world.\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "340": {
+        "caption": "\"Etc\"....\"Spam\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "341": {
+        "caption": "\"Etc\"....\"Spam\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "342": {
+        "caption": "\"Etc\"....\"Spam\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "343": {
+        "caption": "\"Etc\"....\"Spam\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "344": {
+        "caption": "\"Etc\"....\"Spam\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "345": {
+        "caption": "\"Etc\"....\"Spam\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "346": {
+        "caption": "\"Etc\"....\"Spam\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "347": {
+        "caption": "\"Etc\"....\"Spam\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "348": {
+        "caption": "\"Etc\"....\"Spam\" & \"Education/Motivation\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "349": {
+        "caption": "\"Education/Motivation\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "35": {
+        "caption": "\"Ultimate......world.\"&\"What's At Stake\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "slide",   "dais"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "350": {
+        "caption": "\"Education/Motivation\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "351": {
+        "caption": "\"Education/Motivation\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "352": {
+        "caption": "\"Education/Motivation\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "353": {
+        "caption": "\"Education/Motivation\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "354": {
+        "caption": "\"Education/Motivation\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "355": {
+        "caption": "\"Education/Motivation\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "356": {
+        "caption": "\"Education/Motivation\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "357": {
+        "caption": "\"Education/Motivation\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "358": {
+        "caption": "\"Education/Motivation\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "359": {
+        "caption": "\"Education/Motivation\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "36": {
+        "caption": "What's At Stake.",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "360": {
+        "caption": "\"Education/Motivation\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "361": {
+        "caption": "\"Education/Motivation\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "362": {
+        "caption": "\"Education/Motivation\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "363": {
+        "caption": "\"Education/Motivation\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "364": {
+        "caption": "\"Education/Motivation\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "365": {
+        "caption": "\"Education/Motivation\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "366": {
+        "caption": "\"Education/Motivation\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "367": {
+        "caption": "\"Education/Motivation\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "368": {
+        "caption": "\"Education/Motivation\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "369": {
+        "caption": "\"Education/Motivation\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "37": {
+        "caption": "What's At Stake.",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "370": {
+        "caption": "\"Education/Motivation\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "371": {
+        "caption": "\"Education/Motivation\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "372": {
+        "caption": "\"Education/Motivation\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "373": {
+        "caption": "\"Education/Motivation\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "374": {
+        "caption": "\"Education/Motivation\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "375": {
+        "caption": "\"Education/Motivation\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "376": {
+        "caption": "\"Education/Motivation\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "377": {
+        "caption": "\"Education/Motivation\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "378": {
+        "caption": "\"Education/Motivation\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "379": {
+        "caption": "\"Education/Motivation\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "38": {
+        "caption": "What's At Stake.",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "380": {
+        "caption": "\"Education/Motivation\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "381": {
+        "caption": "\"Education/Motivation\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "382": {
+        "caption": "\"Education/Motivation\"&\"KHAN ACADEMY\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "383": {
+        "caption": "\"Artifical Intelligence\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "384": {
+        "caption": "\"MIT OPEN COURSE WARE\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "385": {
+        "caption": "\"MIT OPEN COURSE WARE\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "386": {
+        "caption": "\"MIT OPEN COURSE WARE\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "387": {
+        "caption": "\"MIT OPEN COURSE WARE\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "388": {
+        "caption": "\"MIT OPEN COURSE WARE\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "389": {
+        "caption": "\"MIT OPEN COURSE WARE\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "39": {
+        "caption": "What's At Stake.",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "390": {
+        "caption": "\"MIT OPEN COURSE WARE\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "391": {
+        "caption": "\"MIT OPEN COURSE WARE\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "392": {
+        "caption": "\"MIT OPEN COURSE WARE\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "393": {
+        "caption": "\"MIT OPEN COURSE WARE\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "394": {
+        "caption": "\"MIT OPEN COURSE WARE\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "395": {
+        "caption": "\"MIT OPEN COURSE WARE\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "396": {
+        "caption": "\"MIT OPEN COURSE WARE\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "397": {
+        "caption": "\"MIT OPEN COURSE WARE\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "398": {
+        "caption": "\"MIT OPEN COURSE WARE\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "399": {
+        "caption": "\"MIT OPEN COURSE WARE\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "4": {
+        "transition": false,
+        "categories": {
+            "content": ["dais", "speaker",   "talk-title", "slide"],
+            "phase": ["talk"],
+            "camera-angle": ["wide-angle"],
+            "num-people": [">3"]
+        },
+        "caption": "\"AI at Google Open House\""
+    },
+    "40": {
+        "caption": "What's At Stake.",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "400": {
+        "caption": "\"MIT OPEN COURSE WARE\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "401": {
+        "caption": "\"MIT OPEN COURSE WARE\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "402": {
+        "caption": "\"MIT OPEN COURSE WARE\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "403": {
+        "caption": "\"MIT OPEN COURSE WARE\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "404": {
+        "caption": "\"MIT OPEN COURSE WARE\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "405": {
+        "caption": "\"MIT OPEN COURSE WARE\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "406": {
+        "caption": "\"MIT OPEN COURSE WARE\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "407": {
+        "caption": "\"MIT OPEN COURSE WARE\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "408": {
+        "caption": "\"MIT OPEN COURSE WARE\" & \"Moral--\"Make everthing as simple....Albert Einstein\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "409": {
+        "caption": "\"Moral--\"Make everthing as simple....Albert Einstein\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "41": {
+        "caption": "What's At Stake.",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "410": {
+        "caption": "\"Moral--\"Make everthing as simple....Albert Einstein\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "411": {
+        "caption": "\"Moral--\"Make everthing as simple....Albert Einstein\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "412": {
+        "caption": "\"Moral--\"Make everthing as simple....Albert Einstein\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "413": {
+        "caption": "\"Moral--\"Make everthing as simple....Albert Einstein\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "414": {
+        "caption": "\"Moral--\"Make everthing as simple....Albert Einstein\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "415": {
+        "caption": "\"Moral--\"Make everthing as simple....Albert Einstein\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "416": {
+        "caption": "\"Moral--\"Make everthing as simple....Albert Einstein\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "417": {
+        "caption": "\"Moral--\"Make everthing as simple....Albert Einstein\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "418": {
+        "caption": "\"Moral--\"Make everthing as simple....Albert Einstein\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "419": {
+        "caption": "\"Moral--\"Make everthing as simple....Albert Einstein\"&\"All models...George Box\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "42": {
+        "caption": "What's At Stake.",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "420": {
+        "caption": "\"Moral--\"Make everthing as simple....Albert Einstein\"&\"All models...George Box\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "421": {
+        "caption": "\"Moral--\"Make everthing as simple....Albert Einstein\"&\"All models...George Box\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "422": {
+        "caption": "\"Moral--\"Make everthing as simple....Albert Einstein\"&\"All models...George Box\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "423": {
+        "caption": "\"Moral--\"Make everthing as simple....Albert Einstein\"&\"All models...George Box\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "424": {
+        "caption": "\"Moral--\"Make everthing as simple....Albert Einstein\"&\"All models...George Box\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "425": {
+        "caption": "\"Moral--\"Make everthing as simple....Albert Einstein\"&\"All models...George Box\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "426": {
+        "caption": "\"Moral--\"Make everthing as simple....Albert Einstein\"&\"All models...George Box\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "427": {
+        "caption": "\"Moral--\"Make everthing as simple....Albert Einstein\"&\"All models...George Box\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "428": {
+        "caption": "\"Moral--\"Make everthing as simple....Albert Einstein\"&\"All models...George Box\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "429": {
+        "caption": "\"Moral--\"Make...-Albert Einstein\"&\"All models...George Box\"&\"I have.-Du Bois\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "43": {
+        "caption": "What's At Stake.",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "430": {
+        "caption": "\"Moral--\"Make...-Albert Einstein\"&\"All models...George Box\"&\"I have.-Du Bois\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "431": {
+        "caption": "\"Moral--\"Make...-Albert Einstein\"&\"All models...George Box\"&\"I have.-Du Bois\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "432": {
+        "caption": "\"Moral--\"Make...-Albert Einstein\"&\"All models...George Box\"&\"I have.-Du Bois\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "433": {
+        "caption": "\"Moral--\"Make...-Albert Einstein\"&\"All models...George Box\"&\"I have.-Du Bois\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "434": {
+        "caption": "\"Moral--\"Make...-Albert Einstein\"&\"All models...George Box\"&\"I have.-Du Bois\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "435": {
+        "caption": "\"Moral--\"Make...-Albert Einstein\"&\"All models...George Box\"&\"I have.-Du Bois\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "436": {
+        "caption": "\"Moral--\"Make...-Albert Einstein\"&\"All models...George Box\"&\"I have.-Du Bois\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "437": {
+        "caption": "\"Moral--\"Make...-Albert Einstein\"&\"All models...George Box\"&\"I have.-Du Bois\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "438": {
+        "caption": "\"Moral--\"Make...-Albert Einstein\"&\"All models...George Box\"&\"I have.-Du Bois\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "439": {
+        "caption": "\"Moral--\"Make...-Albert Einstein\"&\"All models...George Box\"&\"I have.-Du Bois\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "44": {
+        "caption": "What's At Stake.",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "440": {
+        "caption": "\"Moral--\"Make...-Albert Einstein\"&\"All models...George Box\"&\"I have.-Du Bois\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "441": {
+        "caption": "\"Moral--\"Make...-Albert Einstein\"&\"All models...George Box\"&\"I have.-Du Bois\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "442": {
+        "caption": "\"Moral\" & \"Google Translate\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "443": {
+        "caption": "\"Google Translate\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": ["1"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "45": {
+        "caption": "What's At Stake.",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "46": {
+        "caption": "What's At Stake.",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "47": {
+        "caption": "What's At Stake.",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "48": {
+        "caption": "What's At Stake.",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "49": {
+        "caption": "What's At Stake.",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "5": {
+        "caption": "\"AI at Google Open House\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "slide",   "dais"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "50": {
+        "caption": "What's At Stake.",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "51": {
+        "caption": "What's At Stake.",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "52": {
+        "caption": "What's At Stake.",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "53": {
+        "caption": "What's At Stake.",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "54": {
+        "caption": "What's At Stake.",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "55": {
+        "caption": "What's At Stake.",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "56": {
+        "caption": "What's At Stake.",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "57": {
+        "caption": "What's At Stake.",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "58": {
+        "caption": "What's At Stake.",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "59": {
+        "caption": "What's At Stake.",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "6": {
+        "caption": "\"AI at Google Open House\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "slide",   "dais"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "60": {
+        "caption": "What's At Stake.",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "61": {
+        "caption": "What's At Stake.",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "62": {
+        "caption": "What's At Stake.",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "63": {
+        "caption": "What's At Stake.",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "64": {
+        "caption": "What's At Stake.",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "65": {
+        "caption": "What's At Stake.",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "66": {
+        "caption": "What's At Stake.",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "67": {
+        "caption": "What's At Stake.",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "68": {
+        "caption": "What's At Stake.",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "69": {
+        "caption": "What's At Stake.",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "7": {
+        "caption": "\"AI at Google Open House\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "slide",   "dais"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "70": {
+        "caption": "What's At Stake.",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "71": {
+        "caption": "What's At Stake.",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "72": {
+        "caption": "What's At Stake.",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "73": {
+        "caption": "What's At Stake.",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "74": {
+        "caption": "What's At Stake.",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "75": {
+        "caption": "What's At Stake.",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "76": {
+        "caption": "What's At Stake.",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "77": {
+        "caption": "What's At Stake.",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "78": {
+        "caption": "What's At Stake.",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "79": {
+        "caption": "What's At Stake.",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "8": {
+        "caption": "\"AI at Google Open House\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "slide",   "dais"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "80": {
+        "caption": "What's At Stake.",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "81": {
+        "caption": "What's At Stake.",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "82": {
+        "caption": "What's At Stake.",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "83": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "84": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "85": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "86": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "87": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "88": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "89": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "9": {
+        "caption": "\"AI at Google Open House\"",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "slide",   "dais"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "90": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "91": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "92": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "93": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "94": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "95": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "96": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "97": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "98": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "99": {
+        "caption": "\"Why now? (\"Unlike previous....\")",
+        "categories": {
+            "camera-angle": ["wide-angle"],
+            "content": ["speaker", "dais",   "slide"],
+            "num-people": [">3"],
+            "phase": ["talk"]
+        },
+        "transition": false
+    },
+    "duration": 885,
+    "fps": 30,
+    "num_frames": 26533,
+    "num_snippets": 443,
+    "snippet_size": 2,
+    "video_category": "techtalk",
+    "video_name": "techtalk_10.mp4"
+}
