@@ -1,0 +1,8286 @@
+{
+    "1": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Serious"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                ">5"
+            ]
+        },
+        "sceneId": 0,
+        "shot_length": 196,
+        "shot_start": 0,
+        "transition": false
+    },
+    "10": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Serious"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 0,
+        "shot_length": 37,
+        "shot_start": 698,
+        "transition": false
+    },
+    "100": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Serious"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Chandler Bing"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 4,
+        "shot_length": 75,
+        "shot_start": 6900,
+        "transition": false
+    },
+    "101": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Happy"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Phoebe Buffay"
+            ],
+            "NumPeople": [
+                "1"
+            ]
+        },
+        "sceneId": 4,
+        "shot_length": 83,
+        "shot_start": 6975,
+        "transition": false
+    },
+    "102": {
+        "categories": {
+            "Action": [
+                "Frowning",
+                "Watching",
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close",
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Confused",
+                "Disgust",
+                "Surprise"
+            ],
+            "Location": [
+                "Living room",
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Chandler Bing",
+                "Racheal Green",
+                "Ross Geller"
+            ],
+            "Main Object": [
+                "Photo"
+            ],
+            "NumPeople": [
+                ">5"
+            ]
+        },
+        "sceneId": 5,
+        "shot_length": 421,
+        "shot_start": 7058,
+        "transition": false
+    },
+    "103": {
+        "categories": {
+            "Action": [
+                "Talking",
+                "Walking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Lobby",
+                "Living room"
+            ],
+            "Main Entities": [
+                "Ross Geller",
+                "Monica Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 5,
+        "shot_length": 162,
+        "shot_start": 7479,
+        "transition": false
+    },
+    "104": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking",
+                "Walking"
+            ],
+            "Camera Angle": [
+                "Close",
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Outdoors",
+                "Living room"
+            ],
+            "Main Entities": [
+                "Ross Geller",
+                "Monica Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 6,
+        "shot_length": 92,
+        "shot_start": 7641,
+        "transition": false
+    },
+    "105": {
+        "categories": {
+            "Action": [
+                "Frowning",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Disgust"
+            ],
+            "Location": [
+                "Living room"
+            ],
+            "Main Entities": [
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 6,
+        "shot_length": 183,
+        "shot_start": 7733,
+        "transition": false
+    },
+    "106": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close",
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Surprise",
+                "Confused"
+            ],
+            "Location": [
+                "Living room"
+            ],
+            "Main Entities": [
+                "Ross Geller",
+                "Monica Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 6,
+        "shot_length": 127,
+        "shot_start": 7916,
+        "transition": false
+    },
+    "107": {
+        "categories": {
+            "Action": [
+                "Arguing",
+                "Frowning"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Disgust"
+            ],
+            "Location": [
+                "Living room"
+            ],
+            "Main Entities": [
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 6,
+        "shot_length": 142,
+        "shot_start": 8043,
+        "transition": false
+    },
+    "108": {
+        "categories": {
+            "Action": [
+                "Frowning",
+                "Chuckling",
+                "Talking",
+                "Walking"
+            ],
+            "Camera Angle": [
+                "Close",
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Surprise",
+                "Anger"
+            ],
+            "Location": [
+                "Living room"
+            ],
+            "Main Entities": [
+                "Ross Geller",
+                "Monica Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 6,
+        "shot_length": 196,
+        "shot_start": 8185,
+        "transition": false
+    },
+    "109": {
+        "categories": {
+            "Action": [
+                "Frowning",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Blank",
+                "Confused"
+            ],
+            "Location": [
+                "Living room"
+            ],
+            "Main Entities": [
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 6,
+        "shot_length": 101,
+        "shot_start": 8381,
+        "transition": false
+    },
+    "11": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Serious"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 0,
+        "shot_length": 139,
+        "shot_start": 735,
+        "transition": false
+    },
+    "110": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking",
+                "Walking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Living room"
+            ],
+            "Main Entities": [
+                "Ross Geller",
+                "Monica Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 6,
+        "shot_length": 97,
+        "shot_start": 8482,
+        "transition": false
+    },
+    "111": {
+        "categories": {
+            "Action": [
+                "Talking",
+                "Walking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Sad"
+            ],
+            "Location": [
+                "Living room"
+            ],
+            "Main Entities": [
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "1"
+            ]
+        },
+        "sceneId": 6,
+        "shot_length": 44,
+        "shot_start": 8579,
+        "transition": false
+    },
+    "112": {
+        "categories": {
+            "Action": [
+                "Listening",
+                "Talking",
+                "Walking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Surprise",
+                "Serious"
+            ],
+            "Location": [
+                "Living room"
+            ],
+            "Main Entities": [
+                "Ross Geller",
+                "Monica Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 6,
+        "shot_length": 173,
+        "shot_start": 8623,
+        "transition": false
+    },
+    "113": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Living room"
+            ],
+            "Main Entities": [
+                "Monica Geller",
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 6,
+        "shot_length": 44,
+        "shot_start": 8796,
+        "transition": false
+    },
+    "114": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Surprise",
+                "Serious"
+            ],
+            "Location": [
+                "Living room"
+            ],
+            "Main Entities": [
+                "Ross Geller",
+                "Monica Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 6,
+        "shot_length": 65,
+        "shot_start": 8840,
+        "transition": false
+    },
+    "115": {
+        "categories": {
+            "Action": [
+                "Listening"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Blank",
+                "Confused"
+            ],
+            "Location": [
+                "Living room"
+            ],
+            "Main Entities": [
+                "Monica Geller",
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 6,
+        "shot_length": 84,
+        "shot_start": 8905,
+        "transition": false
+    },
+    "116": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Sad"
+            ],
+            "Location": [
+                "Living room"
+            ],
+            "Main Entities": [
+                "Ross Geller",
+                "Monica Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 6,
+        "shot_length": 72,
+        "shot_start": 8989,
+        "transition": false
+    },
+    "117": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Sad",
+                "Serious"
+            ],
+            "Location": [
+                "Living room"
+            ],
+            "Main Entities": [
+                "Ross Geller",
+                "Some other person"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 6,
+        "shot_length": 277,
+        "shot_start": 9061,
+        "transition": false
+    },
+    "118": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Sad"
+            ],
+            "Location": [
+                "Living room"
+            ],
+            "Main Entities": [
+                "Ross Geller",
+                "Monica Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 6,
+        "shot_length": 298,
+        "shot_start": 9338,
+        "transition": false
+    },
+    "119": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Confused"
+            ],
+            "Location": [
+                "Living room"
+            ],
+            "Main Entities": [
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 6,
+        "shot_length": 117,
+        "shot_start": 9636,
+        "transition": false
+    },
+    "12": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Denial/Disapproval",
+                "Serious"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 0,
+        "shot_length": 164,
+        "shot_start": 874,
+        "transition": false
+    },
+    "120": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Sad",
+                "Serious"
+            ],
+            "Location": [
+                "Living room"
+            ],
+            "Main Entities": [
+                "Ross Geller",
+                "Monica Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 6,
+        "shot_length": 170,
+        "shot_start": 9753,
+        "transition": false
+    },
+    "121": {
+        "categories": {
+            "Action": [
+                "Listening",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Sad"
+            ],
+            "Location": [
+                "Living room"
+            ],
+            "Main Entities": [
+                "Ross Geller",
+                "Monica Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 6,
+        "shot_length": 42,
+        "shot_start": 9923,
+        "transition": false
+    },
+    "122": {
+        "categories": {
+            "Action": [
+                "Chuckling"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Location": [
+                "Outdoors",
+                "Living room"
+            ],
+            "Main Entities": [
+                "Some other person",
+                "Monica Geller",
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 7,
+        "shot_length": 83,
+        "shot_start": 9965,
+        "transition": false
+    },
+    "123": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking",
+                "Walking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Some other person",
+                "Chandler Bing",
+                "Phoebe Buffay"
+            ],
+            "NumPeople": [
+                ">5"
+            ]
+        },
+        "sceneId": 7,
+        "shot_length": 71,
+        "shot_start": 10048,
+        "transition": false
+    },
+    "124": {
+        "categories": {
+            "Action": [
+                "Watching",
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Happy"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Monica Geller",
+                "Chandler Bing"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 7,
+        "shot_length": 26,
+        "shot_start": 10119,
+        "transition": false
+    },
+    "125": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking",
+                "Walking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Happy"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Some other person",
+                "Phoebe Buffay"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 7,
+        "shot_length": 117,
+        "shot_start": 10145,
+        "transition": false
+    },
+    "126": {
+        "categories": {
+            "Action": [
+                "Frowning",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Chandler Bing"
+            ],
+            "NumPeople": [
+                ">5"
+            ]
+        },
+        "sceneId": 7,
+        "shot_length": 17,
+        "shot_start": 10262,
+        "transition": false
+    },
+    "127": {
+        "categories": {
+            "Action": [
+                "Listening",
+                "Watching"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Chandler Bing"
+            ],
+            "NumPeople": [
+                ">5"
+            ]
+        },
+        "sceneId": 7,
+        "shot_length": 1,
+        "shot_start": 10279,
+        "transition": false
+    },
+    "128": {
+        "categories": {
+            "Action": [
+                "Walking"
+            ],
+            "Camera Angle": [
+                "Close",
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Chandler Bing",
+                "Phoebe Buffay"
+            ],
+            "NumPeople": [
+                ">5"
+            ]
+        },
+        "sceneId": 7,
+        "shot_length": 114,
+        "shot_start": 10280,
+        "transition": false
+    },
+    "129": {
+        "categories": {
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Confused"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Chandler Bing"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 7,
+        "shot_length": 1,
+        "shot_start": 10394,
+        "transition": false
+    },
+    "13": {
+        "categories": {
+            "Action": [
+                "Talking",
+                "Walking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Denial/Disapproval",
+                "Serious"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Ross Geller",
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 1,
+        "shot_length": 410,
+        "shot_start": 1038,
+        "transition": false
+    },
+    "130": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Happy"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Monica Geller"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 7,
+        "shot_length": 26,
+        "shot_start": 10395,
+        "transition": false
+    },
+    "131": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Some other person",
+                "Phoebe Buffay"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 7,
+        "shot_length": 118,
+        "shot_start": 10421,
+        "transition": false
+    },
+    "132": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Living room"
+            ],
+            "Main Entities": [
+                "Monica Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 7,
+        "shot_length": 61,
+        "shot_start": 10539,
+        "transition": false
+    },
+    "133": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Serious"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Some other person",
+                "Phoebe Buffay"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 7,
+        "shot_length": 94,
+        "shot_start": 10600,
+        "transition": false
+    },
+    "134": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Chandler Bing",
+                "Monica Geller"
+            ],
+            "NumPeople": [
+                ">5"
+            ]
+        },
+        "sceneId": 7,
+        "shot_length": 93,
+        "shot_start": 10694,
+        "transition": false
+    },
+    "135": {
+        "categories": {
+            "Action": [
+                "Listening",
+                "Watching"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Serious"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Some other person",
+                "Phoebe Buffay"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 7,
+        "shot_length": 41,
+        "shot_start": 10787,
+        "transition": false
+    },
+    "136": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Chandler Bing",
+                "Monica Geller"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 7,
+        "shot_length": 119,
+        "shot_start": 10828,
+        "transition": false
+    },
+    "137": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Listening",
+                "Watching"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Sad"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Phoebe Buffay",
+                "Some other person"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 7,
+        "shot_length": 41,
+        "shot_start": 10947,
+        "transition": false
+    },
+    "138": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Happy"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Monica Geller"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 7,
+        "shot_length": 32,
+        "shot_start": 10988,
+        "transition": false
+    },
+    "139": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Serious"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Chandler Bing",
+                "Some other person",
+                "Monica Geller",
+                "Phoebe Buffay"
+            ],
+            "NumPeople": [
+                ">5"
+            ]
+        },
+        "sceneId": 7,
+        "shot_length": 42,
+        "shot_start": 11020,
+        "transition": false
+    },
+    "14": {
+        "categories": {
+            "Action": [
+                "Listening"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Sad"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 1,
+        "shot_length": 77,
+        "shot_start": 1448,
+        "transition": false
+    },
+    "140": {
+        "categories": {
+            "Action": [
+                "Watching",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Phoebe Buffay",
+                "Some other person"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 7,
+        "shot_length": 54,
+        "shot_start": 11062,
+        "transition": false
+    },
+    "141": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Chandler Bing",
+                "Monica Geller"
+            ],
+            "NumPeople": [
+                ">5"
+            ]
+        },
+        "sceneId": 7,
+        "shot_length": 82,
+        "shot_start": 11116,
+        "transition": false
+    },
+    "142": {
+        "categories": {
+            "Action": [
+                "Walking",
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Some other person",
+                "Phoebe Buffay"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 7,
+        "shot_length": 149,
+        "shot_start": 11198,
+        "transition": false
+    },
+    "143": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking",
+                "Laughing",
+                "Funny"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Monica Geller",
+                "Chandler Bing"
+            ],
+            "NumPeople": [
+                ">5"
+            ]
+        },
+        "sceneId": 7,
+        "shot_length": 81,
+        "shot_start": 11347,
+        "transition": false
+    },
+    "144": {
+        "categories": {
+            "Action": [
+                "Walking",
+                "Chuckling",
+                "Talking",
+                "Funny"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Happy"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Phoebe Buffay",
+                "Some other person",
+                "Monica Geller",
+                "Chandler Bing"
+            ],
+            "NumPeople": [
+                ">5"
+            ]
+        },
+        "sceneId": 7,
+        "shot_length": 54,
+        "shot_start": 11428,
+        "transition": false
+    },
+    "145": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking",
+                "Funny"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Chandler Bing"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 7,
+        "shot_length": 30,
+        "shot_start": 11482,
+        "transition": false
+    },
+    "146": {
+        "categories": {
+            "Action": [
+                "Laughing"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Happy"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Some other person",
+                "Monica Geller"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 7,
+        "shot_length": 53,
+        "shot_start": 11512,
+        "transition": false
+    },
+    "147": {
+        "categories": {
+            "Action": [
+                "Watching",
+                "Chuckling"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Chandler Bing",
+                "Phoebe Buffay"
+            ],
+            "NumPeople": [
+                ">5"
+            ]
+        },
+        "sceneId": 7,
+        "shot_length": 108,
+        "shot_start": 11565,
+        "transition": false
+    },
+    "148": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Chandler Bing"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 8,
+        "shot_length": 61,
+        "shot_start": 11673,
+        "transition": false
+    },
+    "149": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Blank",
+                "Surprise"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Phoebe Buffay"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 8,
+        "shot_length": 168,
+        "shot_start": 11734,
+        "transition": false
+    },
+    "15": {
+        "categories": {
+            "Action": [
+                "Talking",
+                "Walking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Sad"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Ross Geller",
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 1,
+        "shot_length": 115,
+        "shot_start": 1525,
+        "transition": false
+    },
+    "150": {
+        "categories": {
+            "Action": [
+                "Screaming"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Disgust"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Chandler Bing"
+            ],
+            "NumPeople": [
+                ">5"
+            ]
+        },
+        "sceneId": 8,
+        "shot_length": 100,
+        "shot_start": 11902,
+        "transition": false
+    },
+    "151": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Serious"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Chandler Bing",
+                "Phoebe Buffay"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 8,
+        "shot_length": 130,
+        "shot_start": 12002,
+        "transition": false
+    },
+    "152": {
+        "categories": {
+            "Action": [
+                "Walking",
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Happy"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Chandler Bing",
+                "Monica Geller",
+                "Phoebe Buffay"
+            ],
+            "NumPeople": [
+                ">5"
+            ]
+        },
+        "sceneId": 8,
+        "shot_length": 140,
+        "shot_start": 12132,
+        "transition": false
+    },
+    "153": {
+        "categories": {
+            "Action": [
+                "Listening"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Blank"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Chandler Bing"
+            ],
+            "NumPeople": [
+                ">5"
+            ]
+        },
+        "sceneId": 8,
+        "shot_length": 38,
+        "shot_start": 12272,
+        "transition": false
+    },
+    "154": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Serious"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Phoebe Buffay"
+            ],
+            "NumPeople": [
+                "1"
+            ]
+        },
+        "sceneId": 8,
+        "shot_length": 58,
+        "shot_start": 12310,
+        "transition": false
+    },
+    "155": {
+        "categories": {
+            "Action": [
+                "Watching"
+            ],
+            "Camera Angle": [
+                "Wide Angle",
+                "Transit Scene"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Kitchen",
+                "Cafe",
+                "Lobby"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Chandler Bing",
+                "Phoebe Buffay",
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 9,
+        "shot_length": 230,
+        "shot_start": 12368,
+        "transition": false
+    },
+    "156": {
+        "categories": {
+            "Action": [
+                "Mimicking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Kitchen"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 9,
+        "shot_length": 48,
+        "shot_start": 12598,
+        "transition": false
+    },
+    "157": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Sad"
+            ],
+            "Location": [
+                "Lobby"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 9,
+        "shot_length": 34,
+        "shot_start": 12646,
+        "transition": false
+    },
+    "158": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Anger",
+                "Serious"
+            ],
+            "Location": [
+                "Kitchen"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 9,
+        "shot_length": 113,
+        "shot_start": 12680,
+        "transition": false
+    },
+    "159": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Sad"
+            ],
+            "Location": [
+                "Lobby"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 9,
+        "shot_length": 48,
+        "shot_start": 12793,
+        "transition": false
+    },
+    "16": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Sad"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Ross Geller",
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 1,
+        "shot_length": 124,
+        "shot_start": 1640,
+        "transition": false
+    },
+    "160": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Serious"
+            ],
+            "Location": [
+                "Kitchen"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 9,
+        "shot_length": 85,
+        "shot_start": 12841,
+        "transition": false
+    },
+    "161": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Sad"
+            ],
+            "Location": [
+                "Lobby"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 9,
+        "shot_length": 38,
+        "shot_start": 12926,
+        "transition": false
+    },
+    "162": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Kitchen"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 9,
+        "shot_length": 69,
+        "shot_start": 12964,
+        "transition": false
+    },
+    "163": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Denial/Disapproval"
+            ],
+            "Location": [
+                "Lobby"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 9,
+        "shot_length": 247,
+        "shot_start": 13033,
+        "transition": false
+    },
+    "164": {
+        "categories": {
+            "Action": [
+                "Listening",
+                "Chuckling"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Kitchen"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 9,
+        "shot_length": 48,
+        "shot_start": 13280,
+        "transition": false
+    },
+    "165": {
+        "categories": {
+            "Action": [
+                "Walking",
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Serious"
+            ],
+            "Location": [
+                "Kitchen",
+                "Lobby"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 9,
+        "shot_length": 141,
+        "shot_start": 13328,
+        "transition": false
+    },
+    "166": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Serious"
+            ],
+            "Location": [
+                "Kitchen"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 9,
+        "shot_length": 86,
+        "shot_start": 13469,
+        "transition": false
+    },
+    "167": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Sad"
+            ],
+            "Location": [
+                "Lobby"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 9,
+        "shot_length": 104,
+        "shot_start": 13555,
+        "transition": false
+    },
+    "168": {
+        "categories": {
+            "Action": [
+                "Walking",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Blank"
+            ],
+            "Location": [
+                "Kitchen",
+                "Lobby"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 9,
+        "shot_length": 191,
+        "shot_start": 13659,
+        "transition": false
+    },
+    "169": {
+        "categories": {
+            "Action": [
+                "Watching"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Sad"
+            ],
+            "Location": [
+                "Living room"
+            ],
+            "Main Entities": [
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "1"
+            ]
+        },
+        "sceneId": 9,
+        "shot_length": 47,
+        "shot_start": 13850,
+        "transition": false
+    },
+    "17": {
+        "categories": {
+            "Action": [
+                "Talking",
+                "Walking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Serious",
+                "Disgust"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Ross Geller",
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 1,
+        "shot_length": 238,
+        "shot_start": 1764,
+        "transition": false
+    },
+    "170": {
+        "categories": {
+            "Action": [
+                "Walking",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Confused"
+            ],
+            "Location": [
+                "Kitchen"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 9,
+        "shot_length": 84,
+        "shot_start": 13897,
+        "transition": false
+    },
+    "171": {
+        "categories": {
+            "Action": [
+                "Walking",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle",
+                "Close"
+            ],
+            "Emotion": [
+                "Serious"
+            ],
+            "Location": [
+                "Living room"
+            ],
+            "Main Entities": [
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 9,
+        "shot_length": 46,
+        "shot_start": 13981,
+        "transition": false
+    },
+    "172": {
+        "categories": {
+            "Action": [
+                "Walking",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Serious"
+            ],
+            "Location": [
+                "Kitchen"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 9,
+        "shot_length": 126,
+        "shot_start": 14027,
+        "transition": false
+    },
+    "173": {
+        "categories": {
+            "Action": [
+                "Serving",
+                "Talking",
+                "Frowning"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Serious"
+            ],
+            "Location": [
+                "Kitchen"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 9,
+        "shot_length": 410,
+        "shot_start": 14153,
+        "transition": false
+    },
+    "174": {
+        "categories": {
+            "Action": [
+                "Serving",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Sad"
+            ],
+            "Location": [
+                "Living room"
+            ],
+            "Main Entities": [
+                "Some other person",
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 9,
+        "shot_length": 90,
+        "shot_start": 14563,
+        "transition": false
+    },
+    "175": {
+        "categories": {
+            "Action": [
+                "Watching",
+                "Drinking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Sad"
+            ],
+            "Location": [
+                "Kitchen",
+                "Living room"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Ross Geller"
+            ],
+            "Main Object": [
+                "Other"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 9,
+        "shot_length": 102,
+        "shot_start": 14653,
+        "transition": false
+    },
+    "176": {
+        "categories": {
+            "Action": [
+                "Mimicking",
+                "Talking",
+                "Drinking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Kitchen"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Ross Geller"
+            ],
+            "Main Object": [
+                "Other"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 9,
+        "shot_length": 149,
+        "shot_start": 14755,
+        "transition": false
+    },
+    "177": {
+        "categories": {
+            "Action": [
+                "Frowning",
+                "Mimicking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Disgust",
+                "Surprise"
+            ],
+            "Location": [
+                "Living room"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Ross Geller"
+            ],
+            "Main Object": [
+                "Other"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 9,
+        "shot_length": 96,
+        "shot_start": 14904,
+        "transition": false
+    },
+    "178": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Denial/Disapproval"
+            ],
+            "Location": [
+                "Kitchen",
+                "Living room"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 9,
+        "shot_length": 99,
+        "shot_start": 15000,
+        "transition": false
+    },
+    "179": {
+        "categories": {
+            "Action": [
+                "Talking",
+                "Frowning"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Denial/Disapproval"
+            ],
+            "Location": [
+                "Kitchen"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 9,
+        "shot_length": 237,
+        "shot_start": 15099,
+        "transition": false
+    },
+    "18": {
+        "categories": {
+            "Action": [
+                "Talking",
+                "Frowning"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Disgust"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Ross Geller",
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 1,
+        "shot_length": 238,
+        "shot_start": 2002,
+        "transition": false
+    },
+    "180": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Living room"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 9,
+        "shot_length": 164,
+        "shot_start": 15336,
+        "transition": false
+    },
+    "181": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Blank"
+            ],
+            "Location": [
+                "Kitchen"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 9,
+        "shot_length": 86,
+        "shot_start": 15500,
+        "transition": false
+    },
+    "182": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Serious"
+            ],
+            "Location": [
+                "Living room"
+            ],
+            "Main Entities": [
+                "Some other person",
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 9,
+        "shot_length": 65,
+        "shot_start": 15586,
+        "transition": false
+    },
+    "183": {
+        "categories": {
+            "Action": [
+                "Talking",
+                "Frowning"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Denial/Disapproval"
+            ],
+            "Location": [
+                "Kitchen"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 9,
+        "shot_length": 109,
+        "shot_start": 15651,
+        "transition": false
+    },
+    "184": {
+        "categories": {
+            "Action": [
+                "Listening",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Sad"
+            ],
+            "Location": [
+                "Living room"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 9,
+        "shot_length": 58,
+        "shot_start": 15760,
+        "transition": false
+    },
+    "185": {
+        "categories": {
+            "Action": [
+                "Walking",
+                "Talking",
+                "Frowning"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Denial/Disapproval"
+            ],
+            "Location": [
+                "Kitchen",
+                "Living room"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 9,
+        "shot_length": 276,
+        "shot_start": 15818,
+        "transition": false
+    },
+    "186": {
+        "categories": {
+            "Action": [
+                "Talking",
+                "Frowning"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Denial/Disapproval"
+            ],
+            "Location": [
+                "Living room"
+            ],
+            "Main Entities": [
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "1"
+            ]
+        },
+        "sceneId": 9,
+        "shot_length": 141,
+        "shot_start": 16094,
+        "transition": false
+    },
+    "187": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Serious"
+            ],
+            "Location": [
+                "Kitchen",
+                "Living room"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 9,
+        "shot_length": 158,
+        "shot_start": 16235,
+        "transition": false
+    },
+    "188": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Serious"
+            ],
+            "Location": [
+                "Living room"
+            ],
+            "Main Entities": [
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "1"
+            ]
+        },
+        "sceneId": 9,
+        "shot_length": 103,
+        "shot_start": 16393,
+        "transition": false
+    },
+    "189": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Serious"
+            ],
+            "Location": [
+                "Kitchen"
+            ],
+            "Main Entities": [
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "1"
+            ]
+        },
+        "sceneId": 9,
+        "shot_length": 204,
+        "shot_start": 16496,
+        "transition": false
+    },
+    "19": {
+        "categories": {
+            "Action": [
+                "Arguing",
+                "Frowning"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Disgust",
+                "Anger"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Ross Geller",
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 1,
+        "shot_length": 57,
+        "shot_start": 2240,
+        "transition": false
+    },
+    "190": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Sad",
+                "Blank"
+            ],
+            "Location": [
+                "Living room"
+            ],
+            "Main Entities": [
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "1"
+            ]
+        },
+        "sceneId": 9,
+        "shot_length": 81,
+        "shot_start": 16700,
+        "transition": false
+    },
+    "191": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Confused"
+            ],
+            "Location": [
+                "Kitchen"
+            ],
+            "Main Entities": [
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "1"
+            ]
+        },
+        "sceneId": 9,
+        "shot_length": 221,
+        "shot_start": 16781,
+        "transition": false
+    },
+    "192": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Living room"
+            ],
+            "Main Entities": [
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "1"
+            ]
+        },
+        "sceneId": 9,
+        "shot_length": 64,
+        "shot_start": 17002,
+        "transition": false
+    },
+    "193": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Confused"
+            ],
+            "Location": [
+                "Kitchen"
+            ],
+            "Main Entities": [
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "1"
+            ]
+        },
+        "sceneId": 9,
+        "shot_length": 208,
+        "shot_start": 17066,
+        "transition": false
+    },
+    "194": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Serious"
+            ],
+            "Location": [
+                "Living room"
+            ],
+            "Main Entities": [
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "1"
+            ]
+        },
+        "sceneId": 9,
+        "shot_length": 92,
+        "shot_start": 17274,
+        "transition": false
+    },
+    "195": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Sad"
+            ],
+            "Location": [
+                "Kitchen"
+            ],
+            "Main Entities": [
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "1"
+            ]
+        },
+        "sceneId": 9,
+        "shot_length": 75,
+        "shot_start": 17366,
+        "transition": false
+    },
+    "196": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Denial/Disapproval"
+            ],
+            "Location": [
+                "Living room"
+            ],
+            "Main Entities": [
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "1"
+            ]
+        },
+        "sceneId": 9,
+        "shot_length": 188,
+        "shot_start": 17441,
+        "transition": false
+    },
+    "197": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Sad"
+            ],
+            "Location": [
+                "Kitchen"
+            ],
+            "Main Entities": [
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "1"
+            ]
+        },
+        "sceneId": 9,
+        "shot_length": 55,
+        "shot_start": 17629,
+        "transition": false
+    },
+    "198": {
+        "categories": {
+            "Action": [
+                "Talking",
+                "Drinking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Denial/Disapproval"
+            ],
+            "Location": [
+                "Living room"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 9,
+        "shot_length": 152,
+        "shot_start": 17684,
+        "transition": false
+    },
+    "199": {
+        "categories": {
+            "Action": [
+                "Mimicking",
+                "Drinking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Living room"
+            ],
+            "Main Entities": [
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "1"
+            ]
+        },
+        "sceneId": 9,
+        "shot_length": 88,
+        "shot_start": 17836,
+        "transition": false
+    },
+    "2": {
+        "categories": {
+            "Action": [
+                "Talking",
+                "Listening"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Serious"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 0,
+        "shot_length": 43,
+        "shot_start": 196,
+        "transition": false
+    },
+    "20": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Serious"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 1,
+        "shot_length": 32,
+        "shot_start": 2297,
+        "transition": false
+    },
+    "200": {
+        "categories": {
+            "Action": [
+                "Mimicking",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Disgust"
+            ],
+            "Location": [
+                "Kitchen"
+            ],
+            "Main Entities": [
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "1"
+            ]
+        },
+        "sceneId": 9,
+        "shot_length": 45,
+        "shot_start": 17924,
+        "transition": false
+    },
+    "201": {
+        "categories": {
+            "Action": [
+                "Walking",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Sad"
+            ],
+            "Location": [
+                "Kitchen",
+                "Living room"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 9,
+        "shot_length": 35,
+        "shot_start": 17969,
+        "transition": false
+    },
+    "202": {
+        "categories": {
+            "Action": [
+                "Walking",
+                "Drinking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Location": [
+                "Living room"
+            ],
+            "Main Entities": [
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "1"
+            ]
+        },
+        "sceneId": 9,
+        "shot_length": 109,
+        "shot_start": 18004,
+        "transition": false
+    },
+    "203": {
+        "categories": {
+            "Action": [
+                "Reading",
+                "Walking",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Serious"
+            ],
+            "Location": [
+                "Living room",
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Phoebe Buffay",
+                "Monica Geller",
+                "Joey Tribianni",
+                "Chandler Bing",
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                ">5"
+            ]
+        },
+        "sceneId": 10,
+        "shot_length": 272,
+        "shot_start": 18113,
+        "transition": false
+    },
+    "204": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Some other person"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 10,
+        "shot_length": 67,
+        "shot_start": 18385,
+        "transition": false
+    },
+    "205": {
+        "categories": {
+            "Action": [
+                "Reading",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Phoebe Buffay",
+                "Chandler Bing"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 10,
+        "shot_length": 107,
+        "shot_start": 18452,
+        "transition": false
+    },
+    "206": {
+        "categories": {
+            "Action": [
+                "Listening",
+                "Frowning"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Monica Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 10,
+        "shot_length": 35,
+        "shot_start": 18559,
+        "transition": false
+    },
+    "207": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Some other person"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 10,
+        "shot_length": 25,
+        "shot_start": 18594,
+        "transition": false
+    },
+    "208": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Chandler Bing"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 10,
+        "shot_length": 151,
+        "shot_start": 18619,
+        "transition": false
+    },
+    "209": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Monica Geller"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 10,
+        "shot_length": 39,
+        "shot_start": 18770,
+        "transition": false
+    },
+    "21": {
+        "categories": {
+            "Action": [
+                "Talking",
+                "Chuckling",
+                "Frowning"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Confused",
+                "Blank",
+                "Disgust"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 1,
+        "shot_length": 289,
+        "shot_start": 2329,
+        "transition": false
+    },
+    "210": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Happy"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Some other person"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 10,
+        "shot_length": 140,
+        "shot_start": 18809,
+        "transition": false
+    },
+    "211": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Happy"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Monica Geller"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 10,
+        "shot_length": 118,
+        "shot_start": 18949,
+        "transition": false
+    },
+    "212": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Some other person"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 10,
+        "shot_length": 31,
+        "shot_start": 19067,
+        "transition": false
+    },
+    "213": {
+        "categories": {
+            "Action": [
+                "Laughing"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Happy"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Some other person",
+                "Monica Geller"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 10,
+        "shot_length": 20,
+        "shot_start": 19098,
+        "transition": false
+    },
+    "214": {
+        "categories": {
+            "Action": [
+                "Listening"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Blank"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Chandler Bing"
+            ],
+            "NumPeople": [
+                "1"
+            ]
+        },
+        "sceneId": 10,
+        "shot_length": 103,
+        "shot_start": 19118,
+        "transition": false
+    },
+    "215": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Happy"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Some other person",
+                "Monica Geller"
+            ],
+            "NumPeople": [
+                ">5"
+            ]
+        },
+        "sceneId": 10,
+        "shot_length": 89,
+        "shot_start": 19221,
+        "transition": false
+    },
+    "216": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Happy"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Some other person",
+                "Monica Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 10,
+        "shot_length": 375,
+        "shot_start": 19310,
+        "transition": false
+    },
+    "217": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Happy"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Some other person"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 10,
+        "shot_length": 129,
+        "shot_start": 19685,
+        "transition": false
+    },
+    "218": {
+        "categories": {
+            "Action": [
+                "Frowning",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Chandler Bing"
+            ],
+            "NumPeople": [
+                "1"
+            ]
+        },
+        "sceneId": 10,
+        "shot_length": 55,
+        "shot_start": 19814,
+        "transition": false
+    },
+    "219": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Happy"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Some other person",
+                "Monica Geller"
+            ],
+            "NumPeople": [
+                ">5"
+            ]
+        },
+        "sceneId": 10,
+        "shot_length": 90,
+        "shot_start": 19869,
+        "transition": false
+    },
+    "22": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Denial/Disapproval"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Ross Geller",
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 1,
+        "shot_length": 148,
+        "shot_start": 2618,
+        "transition": false
+    },
+    "220": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Some other person"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 10,
+        "shot_length": 68,
+        "shot_start": 19959,
+        "transition": false
+    },
+    "221": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Happy"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Monica Geller"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 10,
+        "shot_length": 22,
+        "shot_start": 20027,
+        "transition": false
+    },
+    "222": {
+        "categories": {
+            "Action": [
+                "Screaming",
+                "Mimicking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Denial/Disapproval"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Chandler Bing"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 10,
+        "shot_length": 21,
+        "shot_start": 20049,
+        "transition": false
+    },
+    "223": {
+        "categories": {
+            "Action": [
+                "Reading",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Denial/Disapproval"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Phoebe Buffay",
+                "Some other person",
+                "Monica Geller",
+                "Chandler Bing"
+            ],
+            "NumPeople": [
+                ">5"
+            ]
+        },
+        "sceneId": 10,
+        "shot_length": 67,
+        "shot_start": 20070,
+        "transition": false
+    },
+    "224": {
+        "categories": {
+            "Action": [
+                "Frowning",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Anger"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Chandler Bing"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 10,
+        "shot_length": 31,
+        "shot_start": 20137,
+        "transition": false
+    },
+    "225": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Blank"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Phoebe Buffay"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 10,
+        "shot_length": 28,
+        "shot_start": 20168,
+        "transition": false
+    },
+    "226": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Anger"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Chandler Bing"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 10,
+        "shot_length": 28,
+        "shot_start": 20196,
+        "transition": false
+    },
+    "227": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Confused"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Phoebe Buffay"
+            ],
+            "NumPeople": [
+                "1"
+            ]
+        },
+        "sceneId": 10,
+        "shot_length": 137,
+        "shot_start": 20224,
+        "transition": false
+    },
+    "228": {
+        "categories": {
+            "Action": [
+                "Reading",
+                "Walking",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Transit Scene",
+                "Wide Angle"
+            ],
+            "Location": [
+                "Cafe",
+                "Lobby"
+            ],
+            "Main Entities": [
+                "Phoebe Buffay",
+                "Joey Tribianni",
+                "Chandler Bing"
+            ],
+            "NumPeople": [
+                ">5"
+            ]
+        },
+        "sceneId": 11,
+        "shot_length": 237,
+        "shot_start": 20361,
+        "transition": false
+    },
+    "229": {
+        "categories": {
+            "Action": [
+                "Frowning",
+                "Talking",
+                "Funny"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Disgust"
+            ],
+            "Location": [
+                "Lobby"
+            ],
+            "Main Entities": [
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "1"
+            ]
+        },
+        "sceneId": 11,
+        "shot_length": 294,
+        "shot_start": 20598,
+        "transition": false
+    },
+    "23": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Serious"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 1,
+        "shot_length": 83,
+        "shot_start": 2766,
+        "transition": false
+    },
+    "230": {
+        "categories": {
+            "Action": [
+                "Watching"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Disgust"
+            ],
+            "Location": [
+                "Lobby"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Racheal Green"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 11,
+        "shot_length": 24,
+        "shot_start": 20892,
+        "transition": false
+    },
+    "231": {
+        "categories": {
+            "Action": [
+                "Walking",
+                "Funny"
+            ],
+            "Camera Angle": [
+                "Close",
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Lobby"
+            ],
+            "Main Entities": [
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "1"
+            ]
+        },
+        "sceneId": 11,
+        "shot_length": 66,
+        "shot_start": 20916,
+        "transition": false
+    },
+    "232": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Lobby"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Racheal Green"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 11,
+        "shot_length": 60,
+        "shot_start": 20982,
+        "transition": false
+    },
+    "233": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Location": [
+                "Lobby"
+            ],
+            "Main Entities": [
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 11,
+        "shot_length": 79,
+        "shot_start": 21042,
+        "transition": false
+    },
+    "234": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Lobby"
+            ],
+            "Main Entities": [
+                "Racheal Green"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 11,
+        "shot_length": 31,
+        "shot_start": 21121,
+        "transition": false
+    },
+    "235": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Blank"
+            ],
+            "Location": [
+                "Lobby"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Racheal Green"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 11,
+        "shot_length": 81,
+        "shot_start": 21152,
+        "transition": false
+    },
+    "236": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Lobby"
+            ],
+            "Main Entities": [
+                "Racheal Green"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 11,
+        "shot_length": 88,
+        "shot_start": 21233,
+        "transition": false
+    },
+    "237": {
+        "categories": {
+            "Action": [
+                "Mimicking",
+                "Talking",
+                "Frowning"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Disgust"
+            ],
+            "Location": [
+                "Lobby"
+            ],
+            "Main Entities": [
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 11,
+        "shot_length": 194,
+        "shot_start": 21321,
+        "transition": false
+    },
+    "238": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Anger"
+            ],
+            "Location": [
+                "Lobby"
+            ],
+            "Main Entities": [
+                "Racheal Green"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 11,
+        "shot_length": 70,
+        "shot_start": 21515,
+        "transition": false
+    },
+    "239": {
+        "categories": {
+            "Action": [
+                "Walking",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Location": [
+                "Lobby"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Racheal Green"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 11,
+        "shot_length": 73,
+        "shot_start": 21585,
+        "transition": false
+    },
+    "24": {
+        "categories": {
+            "Action": [
+                "Talking",
+                "Chuckling"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Ross Geller",
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 1,
+        "shot_length": 244,
+        "shot_start": 2849,
+        "transition": false
+    },
+    "240": {
+        "categories": {
+            "Action": [
+                "Talking",
+                "Frowning"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Disgust"
+            ],
+            "Location": [
+                "Lobby"
+            ],
+            "Main Entities": [
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "1"
+            ]
+        },
+        "sceneId": 11,
+        "shot_length": 141,
+        "shot_start": 21658,
+        "transition": false
+    },
+    "241": {
+        "categories": {
+            "Action": [
+                "Walking",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Kitchen",
+                "Lobby"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Chandler Bing",
+                "Some other person",
+                "Monica Geller"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 11,
+        "shot_length": 189,
+        "shot_start": 21799,
+        "transition": false
+    },
+    "242": {
+        "categories": {
+            "Action": [
+                "Walking",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Serious"
+            ],
+            "Location": [
+                "Kitchen",
+                "Living room"
+            ],
+            "Main Entities": [
+                "Chandler Bing",
+                "Monica Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 12,
+        "shot_length": 122,
+        "shot_start": 21988,
+        "transition": false
+    },
+    "243": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle",
+                "Close"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Kitchen"
+            ],
+            "Main Entities": [
+                "Monica Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 12,
+        "shot_length": 85,
+        "shot_start": 22110,
+        "transition": false
+    },
+    "244": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Happy",
+                "Surprise"
+            ],
+            "Location": [
+                "Living room"
+            ],
+            "Main Entities": [
+                "Chandler Bing"
+            ],
+            "NumPeople": [
+                "1"
+            ]
+        },
+        "sceneId": 12,
+        "shot_length": 122,
+        "shot_start": 22195,
+        "transition": false
+    },
+    "245": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Kitchen"
+            ],
+            "Main Entities": [
+                "Monica Geller"
+            ],
+            "NumPeople": [
+                "1"
+            ]
+        },
+        "sceneId": 12,
+        "shot_length": 47,
+        "shot_start": 22317,
+        "transition": false
+    },
+    "246": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Serious"
+            ],
+            "Location": [
+                "Living room"
+            ],
+            "Main Entities": [
+                "Chandler Bing"
+            ],
+            "NumPeople": [
+                "1"
+            ]
+        },
+        "sceneId": 12,
+        "shot_length": 77,
+        "shot_start": 22364,
+        "transition": false
+    },
+    "247": {
+        "categories": {
+            "Action": [
+                "Walking",
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Happy"
+            ],
+            "Location": [
+                "Kitchen"
+            ],
+            "Main Entities": [
+                "Monica Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 12,
+        "shot_length": 78,
+        "shot_start": 22441,
+        "transition": false
+    },
+    "248": {
+        "categories": {
+            "Action": [
+                "Mimicking",
+                "Arguing"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Disgust"
+            ],
+            "Location": [
+                "Living room"
+            ],
+            "Main Entities": [
+                "Chandler Bing"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 12,
+        "shot_length": 251,
+        "shot_start": 22519,
+        "transition": false
+    },
+    "249": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Kitchen"
+            ],
+            "Main Entities": [
+                "Monica Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 12,
+        "shot_length": 69,
+        "shot_start": 22770,
+        "transition": false
+    },
+    "25": {
+        "categories": {
+            "Action": [
+                "Talking",
+                "Walking"
+            ],
+            "Camera Angle": [
+                "Close",
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Denial/Disapproval"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Ross Geller",
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 1,
+        "shot_length": 102,
+        "shot_start": 3093,
+        "transition": false
+    },
+    "250": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Mimicking",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Disgust"
+            ],
+            "Location": [
+                "Living room"
+            ],
+            "Main Entities": [
+                "Chandler Bing",
+                "Monica Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 12,
+        "shot_length": 86,
+        "shot_start": 22839,
+        "transition": false
+    },
+    "251": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Kitchen"
+            ],
+            "Main Entities": [
+                "Chandler Bing",
+                "Monica Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 12,
+        "shot_length": 72,
+        "shot_start": 22925,
+        "transition": false
+    },
+    "252": {
+        "categories": {
+            "Action": [
+                "Watching"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Anger"
+            ],
+            "Location": [
+                "Living room"
+            ],
+            "Main Entities": [
+                "Chandler Bing"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 12,
+        "shot_length": 65,
+        "shot_start": 22997,
+        "transition": false
+    },
+    "253": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Kitchen"
+            ],
+            "Main Entities": [
+                "Monica Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 12,
+        "shot_length": 234,
+        "shot_start": 23062,
+        "transition": false
+    },
+    "254": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Blank"
+            ],
+            "Location": [
+                "Living room"
+            ],
+            "Main Entities": [
+                "Chandler Bing"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 12,
+        "shot_length": 112,
+        "shot_start": 23296,
+        "transition": false
+    },
+    "255": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Happy"
+            ],
+            "Location": [
+                "Kitchen"
+            ],
+            "Main Entities": [
+                "Monica Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 12,
+        "shot_length": 131,
+        "shot_start": 23408,
+        "transition": false
+    },
+    "256": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Happy"
+            ],
+            "Location": [
+                "Living room"
+            ],
+            "Main Entities": [
+                "Chandler Bing"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 12,
+        "shot_length": 49,
+        "shot_start": 23539,
+        "transition": false
+    },
+    "257": {
+        "categories": {
+            "Action": [
+                "Chuckling"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Happy"
+            ],
+            "Location": [
+                "Kitchen"
+            ],
+            "Main Entities": [
+                "Monica Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 12,
+        "shot_length": 55,
+        "shot_start": 23588,
+        "transition": false
+    },
+    "258": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Happy"
+            ],
+            "Location": [
+                "Living room"
+            ],
+            "Main Entities": [
+                "Chandler Bing",
+                "Monica Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 12,
+        "shot_length": 62,
+        "shot_start": 23643,
+        "transition": false
+    },
+    "259": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking",
+                "Falling"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Living room"
+            ],
+            "Main Entities": [
+                "Chandler Bing"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 12,
+        "shot_length": 95,
+        "shot_start": 23705,
+        "transition": false
+    },
+    "26": {
+        "categories": {
+            "Action": [
+                "Frowning",
+                "Walking",
+                "Arguing"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Anger",
+                "Disgust"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 1,
+        "shot_length": 113,
+        "shot_start": 3195,
+        "transition": false
+    },
+    "260": {
+        "categories": {
+            "Action": [
+                "Watching",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Kitchen"
+            ],
+            "Main Entities": [
+                "Chandler Bing",
+                "Monica Geller"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 12,
+        "shot_length": 37,
+        "shot_start": 23800,
+        "transition": false
+    },
+    "261": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Serious"
+            ],
+            "Location": [
+                "Living room"
+            ],
+            "Main Entities": [
+                "Chandler Bing"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 12,
+        "shot_length": 52,
+        "shot_start": 23837,
+        "transition": false
+    },
+    "262": {
+        "categories": {
+            "Action": [
+                "Walking",
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle",
+                "Transit Scene"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Chandler Bing",
+                "Racheal Green",
+                "Monica Geller"
+            ],
+            "NumPeople": [
+                ">5"
+            ]
+        },
+        "sceneId": 13,
+        "shot_length": 236,
+        "shot_start": 23889,
+        "transition": false
+    },
+    "263": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Serious"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Racheal Green"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 13,
+        "shot_length": 74,
+        "shot_start": 24125,
+        "transition": false
+    },
+    "264": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 13,
+        "shot_length": 45,
+        "shot_start": 24199,
+        "transition": false
+    },
+    "265": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Serious"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Racheal Green"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 13,
+        "shot_length": 44,
+        "shot_start": 24244,
+        "transition": false
+    },
+    "266": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Serious"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 13,
+        "shot_length": 292,
+        "shot_start": 24288,
+        "transition": false
+    },
+    "267": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Serious"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Racheal Green"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 13,
+        "shot_length": 83,
+        "shot_start": 24580,
+        "transition": false
+    },
+    "268": {
+        "categories": {
+            "Action": [
+                "Mimicking",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Serious"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 13,
+        "shot_length": 191,
+        "shot_start": 24663,
+        "transition": false
+    },
+    "269": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Happy"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Racheal Green"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 13,
+        "shot_length": 97,
+        "shot_start": 24854,
+        "transition": false
+    },
+    "27": {
+        "categories": {
+            "Action": [
+                "Walking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 1,
+        "shot_length": 57,
+        "shot_start": 3308,
+        "transition": false
+    },
+    "270": {
+        "categories": {
+            "Action": [
+                "Showing"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Serious"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Racheal Green"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 13,
+        "shot_length": 78,
+        "shot_start": 24951,
+        "transition": false
+    },
+    "271": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Racheal Green"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 13,
+        "shot_length": 77,
+        "shot_start": 25029,
+        "transition": false
+    },
+    "272": {
+        "categories": {
+            "Action": [
+                "Frowning",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Serious"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 13,
+        "shot_length": 249,
+        "shot_start": 25106,
+        "transition": false
+    },
+    "273": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Racheal Green"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 13,
+        "shot_length": 159,
+        "shot_start": 25355,
+        "transition": false
+    },
+    "274": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Serious"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 13,
+        "shot_length": 130,
+        "shot_start": 25514,
+        "transition": false
+    },
+    "275": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                ">5"
+            ]
+        },
+        "sceneId": 14,
+        "shot_length": 136,
+        "shot_start": 25644,
+        "transition": false
+    },
+    "276": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Some other person"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 14,
+        "shot_length": 45,
+        "shot_start": 25780,
+        "transition": false
+    },
+    "277": {
+        "categories": {
+            "Action": [
+                "Laughing",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Happy"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Some other person"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 14,
+        "shot_length": 59,
+        "shot_start": 25825,
+        "transition": false
+    },
+    "278": {
+        "categories": {
+            "Action": [
+                "Listening"
+            ],
+            "Emotion": [
+                "Anger"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 14,
+        "shot_length": 77,
+        "shot_start": 25884,
+        "transition": false
+    },
+    "279": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking",
+                "Funny"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Fear"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Some other person"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 14,
+        "shot_length": 93,
+        "shot_start": 25961,
+        "transition": false
+    },
+    "28": {
+        "categories": {
+            "Action": [
+                "Funny",
+                "Walking",
+                "Frowning",
+                "Screaming"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Disgust"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "1"
+            ]
+        },
+        "mega_event": {
+            "id": 1,
+            "name": "Something Interesting"
+        },
+        "sceneId": 1,
+        "shot_length": 98,
+        "shot_start": 3365,
+        "transition": false
+    },
+    "280": {
+        "categories": {
+            "Action": [
+                "Watching"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Serious"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 14,
+        "shot_length": 61,
+        "shot_start": 26054,
+        "transition": false
+    },
+    "281": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Serious"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Racheal Green"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 14,
+        "shot_length": 50,
+        "shot_start": 26115,
+        "transition": false
+    },
+    "282": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 14,
+        "shot_length": 91,
+        "shot_start": 26165,
+        "transition": false
+    },
+    "283": {
+        "categories": {
+            "Action": [
+                "Mimicking",
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Confused"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Racheal Green"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 14,
+        "shot_length": 303,
+        "shot_start": 26256,
+        "transition": false
+    },
+    "284": {
+        "categories": {
+            "Action": [
+                "Mimicking",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Serious",
+                "Surprise"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 14,
+        "shot_length": 385,
+        "shot_start": 26559,
+        "transition": false
+    },
+    "285": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Racheal Green"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 14,
+        "shot_length": 100,
+        "shot_start": 26944,
+        "transition": false
+    },
+    "286": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 14,
+        "shot_length": 124,
+        "shot_start": 27044,
+        "transition": false
+    },
+    "287": {
+        "categories": {
+            "Action": [
+                "Mimicking",
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Racheal Green"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 14,
+        "shot_length": 474,
+        "shot_start": 27168,
+        "transition": false
+    },
+    "288": {
+        "categories": {
+            "Action": [
+                "Watching",
+                "Listening"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Denial/Disapproval"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 14,
+        "shot_length": 67,
+        "shot_start": 27642,
+        "transition": false
+    },
+    "289": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Blank",
+                "Sad"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Racheal Green"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 14,
+        "shot_length": 327,
+        "shot_start": 27709,
+        "transition": false
+    },
+    "29": {
+        "categories": {
+            "Action": [
+                "Funny",
+                "Walking",
+                "Screaming"
+            ],
+            "Camera Angle": [
+                "Close",
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Some other person"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "mega_event": {
+            "id": 1,
+            "name": "Something Interesting"
+        },
+        "sceneId": 1,
+        "shot_length": 136,
+        "shot_start": 3463,
+        "transition": false
+    },
+    "290": {
+        "categories": {
+            "Action": [
+                "Watching",
+                "Listening"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 14,
+        "shot_length": 43,
+        "shot_start": 28036,
+        "transition": false
+    },
+    "291": {
+        "categories": {
+            "Action": [
+                "Watching",
+                "Walking",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                ">5"
+            ]
+        },
+        "sceneId": 14,
+        "shot_length": 190,
+        "shot_start": 28079,
+        "transition": false
+    },
+    "292": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Confused"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Racheal Green"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 14,
+        "shot_length": 303,
+        "shot_start": 28269,
+        "transition": false
+    },
+    "293": {
+        "categories": {
+            "Action": [
+                "Walking",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Confused"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 14,
+        "shot_length": 124,
+        "shot_start": 28572,
+        "transition": false
+    },
+    "294": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Confused"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Racheal Green"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 14,
+        "shot_length": 158,
+        "shot_start": 28696,
+        "transition": false
+    },
+    "295": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Denial/Disapproval"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Racheal Green"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 14,
+        "shot_length": 96,
+        "shot_start": 28854,
+        "transition": false
+    },
+    "296": {
+        "categories": {
+            "Action": [
+                "Listening"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Denial/Disapproval",
+                "Sad"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Racheal Green"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 14,
+        "shot_length": 57,
+        "shot_start": 28950,
+        "transition": false
+    },
+    "297": {
+        "categories": {
+            "Action": [
+                "Walking",
+                "Talking",
+                "Drinking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Denial/Disapproval"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Some other person"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 14,
+        "shot_length": 108,
+        "shot_start": 29007,
+        "transition": false
+    },
+    "298": {
+        "categories": {
+            "Action": [
+                "Listening"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Sad"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Racheal Green"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 14,
+        "shot_length": 87,
+        "shot_start": 29115,
+        "transition": false
+    },
+    "299": {
+        "categories": {
+            "Action": [
+                "Mimicking",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Disgust"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 14,
+        "shot_length": 122,
+        "shot_start": 29202,
+        "transition": false
+    },
+    "3": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Serious"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 0,
+        "shot_length": 70,
+        "shot_start": 239,
+        "transition": false
+    },
+    "30": {
+        "categories": {
+            "Action": [
+                "Walking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Some other person",
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "mega_event": {
+            "id": 1,
+            "name": "Something Interesting"
+        },
+        "sceneId": 2,
+        "shot_length": 63,
+        "shot_start": 3599,
+        "transition": false
+    },
+    "300": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Sad"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 14,
+        "shot_length": 136,
+        "shot_start": 29324,
+        "transition": false
+    },
+    "301": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Sad"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 14,
+        "shot_length": 52,
+        "shot_start": 29460,
+        "transition": false
+    },
+    "302": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Sad"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Racheal Green"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 14,
+        "shot_length": 60,
+        "shot_start": 29512,
+        "transition": false
+    },
+    "303": {
+        "categories": {
+            "Action": [
+                "Frowning",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Serious",
+                "Denial/Disapproval"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 14,
+        "shot_length": 332,
+        "shot_start": 29572,
+        "transition": false
+    },
+    "304": {
+        "categories": {
+            "Action": [
+                "Listening"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Serious"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Racheal Green"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 14,
+        "shot_length": 63,
+        "shot_start": 29904,
+        "transition": false
+    },
+    "305": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Denial/Disapproval"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Some other person"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 14,
+        "shot_length": 58,
+        "shot_start": 29967,
+        "transition": false
+    },
+    "306": {
+        "categories": {
+            "Action": [
+                "Crying",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Sad"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Racheal Green"
+            ],
+            "NumPeople": [
+                ">5"
+            ]
+        },
+        "sceneId": 14,
+        "shot_length": 141,
+        "shot_start": 30025,
+        "transition": false
+    },
+    "307": {
+        "categories": {
+            "Action": [
+                "Talking",
+                "Crying"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Sad"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 14,
+        "shot_length": 125,
+        "shot_start": 30166,
+        "transition": false
+    },
+    "308": {
+        "categories": {
+            "Action": [
+                "Crying"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Sad"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Racheal Green"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 14,
+        "shot_length": 26,
+        "shot_start": 30291,
+        "transition": false
+    },
+    "309": {
+        "categories": {
+            "Action": [
+                "Hugging",
+                "Crying",
+                "Walking",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Sad"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Racheal Green"
+            ],
+            "NumPeople": [
+                ">5"
+            ]
+        },
+        "mega_event": {
+            "id": 3,
+            "name": "Something Interesting"
+        },
+        "sceneId": 14,
+        "shot_length": 195,
+        "shot_start": 30317,
+        "transition": false
+    },
+    "31": {
+        "categories": {
+            "SceneType": [
+                "Intro with text overlay"
+            ]
+        },
+        "sceneId": 3,
+        "shot_length": 55,
+        "shot_start": 3662,
+        "transition": false
+    },
+    "310": {
+        "categories": {
+            "Action": [
+                "Crying",
+                "Hugging",
+                "Funny",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Sad"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Racheal Green",
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                ">5"
+            ]
+        },
+        "mega_event": {
+            "id": 3,
+            "name": "Something Interesting"
+        },
+        "sceneId": 14,
+        "shot_length": 64,
+        "shot_start": 30512,
+        "transition": false
+    },
+    "311": {
+        "categories": {
+            "Action": [
+                "Hugging",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Sad"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Some other person",
+                "Racheal Green"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "mega_event": {
+            "id": 3,
+            "name": "Something Interesting"
+        },
+        "sceneId": 14,
+        "shot_length": 55,
+        "shot_start": 30576,
+        "transition": false
+    },
+    "312": {
+        "categories": {
+            "Action": [
+                "Hugging",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Denial/Disapproval"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Racheal Green"
+            ],
+            "NumPeople": [
+                ">5"
+            ]
+        },
+        "sceneId": 14,
+        "shot_length": 172,
+        "shot_start": 30631,
+        "transition": false
+    },
+    "313": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Sad"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Racheal Green"
+            ],
+            "NumPeople": [
+                ">5"
+            ]
+        },
+        "sceneId": 14,
+        "shot_length": 86,
+        "shot_start": 30803,
+        "transition": false
+    },
+    "314": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Sad"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 14,
+        "shot_length": 138,
+        "shot_start": 30889,
+        "transition": false
+    },
+    "315": {
+        "categories": {
+            "Action": [
+                "Crying",
+                "Hugging",
+                "Funny",
+                "Watching"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Sad"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Racheal Green",
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "mega_event": {
+            "id": 4,
+            "name": "Something Interesting"
+        },
+        "sceneId": 14,
+        "shot_length": 167,
+        "shot_start": 31027,
+        "transition": false
+    },
+    "316": {
+        "categories": {
+            "Action": [
+                "Hugging",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Sad",
+                "Confused"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "mega_event": {
+            "id": 4,
+            "name": "Something Interesting"
+        },
+        "sceneId": 14,
+        "shot_length": 113,
+        "shot_start": 31194,
+        "transition": false
+    },
+    "317": {
+        "categories": {
+            "Action": [
+                "Hugging",
+                "Crying",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Sad"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Racheal Green"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "mega_event": {
+            "id": 4,
+            "name": "Something Interesting"
+        },
+        "sceneId": 14,
+        "shot_length": 75,
+        "shot_start": 31307,
+        "transition": false
+    },
+    "318": {
+        "categories": {
+            "Action": [
+                "Hugging",
+                "Watching",
+                "Walking",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Sad",
+                "Surprise"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Some other person",
+                "Joey Tribianni",
+                "Text Overlay During Episode",
+                "Racheal Green"
+            ],
+            "NumPeople": [
+                ">5"
+            ]
+        },
+        "mega_event": {
+            "id": 4,
+            "name": "Something Interesting"
+        },
+        "sceneId": 15,
+        "shot_length": 329,
+        "shot_start": 31382,
+        "transition": false
+    },
+    "319": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Serious"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Some other person",
+                "Text Overlay During Episode"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 15,
+        "shot_length": 30,
+        "shot_start": 31711,
+        "transition": false
+    },
+    "32": {
+        "categories": {
+            "SceneType": [
+                "Intro without text overlay"
+            ]
+        },
+        "sceneId": 3,
+        "shot_length": 14,
+        "shot_start": 3717,
+        "transition": false
+    },
+    "320": {
+        "categories": {
+            "Action": [
+                "Frowning",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Disgust"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Text Overlay During Episode",
+                "Some other person"
+            ],
+            "NumPeople": [
+                "1"
+            ]
+        },
+        "sceneId": 15,
+        "shot_length": 103,
+        "shot_start": 31741,
+        "transition": false
+    },
+    "321": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Disgust"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Text Overlay During Episode",
+                "Some other person"
+            ],
+            "NumPeople": [
+                "1"
+            ]
+        },
+        "sceneId": 15,
+        "shot_length": 47,
+        "shot_start": 31844,
+        "transition": false
+    },
+    "322": {
+        "categories": {
+            "Action": [
+                "Frowning",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Disgust"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Text Overlay During Episode",
+                "Some other person"
+            ],
+            "NumPeople": [
+                "1"
+            ]
+        },
+        "sceneId": 15,
+        "shot_length": 88,
+        "shot_start": 31891,
+        "transition": false
+    },
+    "323": {
+        "categories": {
+            "Action": [
+                "Hugging",
+                "Watching"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Racheal Green",
+                "Text Overlay During Episode",
+                "Some other person"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 15,
+        "shot_length": 63,
+        "shot_start": 31979,
+        "transition": false
+    },
+    "324": {
+        "categories": {
+            "Action": [
+                "Mimicking",
+                "Frowning",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Disgust"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Text Overlay During Episode",
+                "Some other person"
+            ],
+            "NumPeople": [
+                "1"
+            ]
+        },
+        "sceneId": 15,
+        "shot_length": 70,
+        "shot_start": 32042,
+        "transition": false
+    },
+    "325": {
+        "categories": {
+            "Action": [
+                "Watching"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Text Overlay During Episode",
+                "Some other person"
+            ],
+            "NumPeople": [
+                "1"
+            ]
+        },
+        "sceneId": 15,
+        "shot_length": 29,
+        "shot_start": 32112,
+        "transition": false
+    },
+    "326": {
+        "categories": {
+            "Action": [
+                "Frowning",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Disgust"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Text Overlay During Episode",
+                "Some other person"
+            ],
+            "NumPeople": [
+                "1"
+            ]
+        },
+        "sceneId": 15,
+        "shot_length": 72,
+        "shot_start": 32141,
+        "transition": false
+    },
+    "327": {
+        "categories": {
+            "Action": [
+                "Hugging",
+                "Watching",
+                "Walking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Serious"
+            ],
+            "Location": [
+                "Restaurant"
+            ],
+            "Main Entities": [
+                "Joey Tribianni",
+                "Text Overlay During Episode",
+                "Racheal Green"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 15,
+        "shot_length": 158,
+        "shot_start": 32213,
+        "transition": false
+    },
+    "33": {
+        "categories": {
+            "SceneType": [
+                "Intro without text overlay"
+            ]
+        },
+        "sceneId": 3,
+        "shot_length": 1,
+        "shot_start": 3731,
+        "transition": false
+    },
+    "34": {
+        "categories": {
+            "SceneType": [
+                "Intro without text overlay"
+            ]
+        },
+        "sceneId": 3,
+        "shot_length": 16,
+        "shot_start": 3732,
+        "transition": false
+    },
+    "35": {
+        "categories": {
+            "SceneType": [
+                "Intro without text overlay"
+            ]
+        },
+        "sceneId": 3,
+        "shot_length": 1,
+        "shot_start": 3748,
+        "transition": false
+    },
+    "36": {
+        "categories": {
+            "SceneType": [
+                "Intro without text overlay"
+            ]
+        },
+        "sceneId": 3,
+        "shot_length": 15,
+        "shot_start": 3749,
+        "transition": false
+    },
+    "37": {
+        "categories": {
+            "SceneType": [
+                "Intro without text overlay"
+            ]
+        },
+        "sceneId": 3,
+        "shot_length": 1,
+        "shot_start": 3764,
+        "transition": false
+    },
+    "38": {
+        "categories": {
+            "SceneType": [
+                "Intro without text overlay"
+            ]
+        },
+        "sceneId": 3,
+        "shot_length": 19,
+        "shot_start": 3765,
+        "transition": false
+    },
+    "39": {
+        "categories": {
+            "SceneType": [
+                "Intro with text overlay"
+            ]
+        },
+        "sceneId": 3,
+        "shot_length": 28,
+        "shot_start": 3784,
+        "transition": false
+    },
+    "4": {
+        "categories": {
+            "Action": [
+                "Talking",
+                "Listening"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Serious"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 0,
+        "shot_length": 56,
+        "shot_start": 309,
+        "transition": false
+    },
+    "40": {
+        "categories": {
+            "SceneType": [
+                "Intro with text overlay"
+            ]
+        },
+        "sceneId": 3,
+        "shot_length": 24,
+        "shot_start": 3812,
+        "transition": false
+    },
+    "41": {
+        "categories": {
+            "SceneType": [
+                "Intro with text overlay"
+            ]
+        },
+        "sceneId": 3,
+        "shot_length": 1,
+        "shot_start": 3836,
+        "transition": false
+    },
+    "42": {
+        "categories": {
+            "SceneType": [
+                "Intro with text overlay"
+            ]
+        },
+        "sceneId": 3,
+        "shot_length": 25,
+        "shot_start": 3837,
+        "transition": false
+    },
+    "43": {
+        "categories": {
+            "SceneType": [
+                "Intro with text overlay"
+            ]
+        },
+        "sceneId": 3,
+        "shot_length": 25,
+        "shot_start": 3862,
+        "transition": false
+    },
+    "44": {
+        "categories": {
+            "SceneType": [
+                "Intro with text overlay"
+            ]
+        },
+        "sceneId": 3,
+        "shot_length": 27,
+        "shot_start": 3887,
+        "transition": false
+    },
+    "45": {
+        "categories": {
+            "SceneType": [
+                "Intro with text overlay"
+            ]
+        },
+        "sceneId": 3,
+        "shot_length": 1,
+        "shot_start": 3914,
+        "transition": false
+    },
+    "46": {
+        "categories": {
+            "SceneType": [
+                "Intro with text overlay"
+            ]
+        },
+        "sceneId": 3,
+        "shot_length": 53,
+        "shot_start": 3915,
+        "transition": false
+    },
+    "47": {
+        "categories": {
+            "SceneType": [
+                "Intro with text overlay"
+            ]
+        },
+        "sceneId": 3,
+        "shot_length": 26,
+        "shot_start": 3968,
+        "transition": false
+    },
+    "48": {
+        "categories": {
+            "SceneType": [
+                "Intro with text overlay"
+            ]
+        },
+        "sceneId": 3,
+        "shot_length": 1,
+        "shot_start": 3994,
+        "transition": false
+    },
+    "49": {
+        "categories": {
+            "SceneType": [
+                "Intro with text overlay"
+            ]
+        },
+        "sceneId": 3,
+        "shot_length": 24,
+        "shot_start": 3995,
+        "transition": false
+    },
+    "5": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Serious",
+                "Disgust"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                ">5"
+            ]
+        },
+        "sceneId": 0,
+        "shot_length": 109,
+        "shot_start": 365,
+        "transition": false
+    },
+    "50": {
+        "categories": {
+            "SceneType": [
+                "Intro without text overlay"
+            ]
+        },
+        "sceneId": 3,
+        "shot_length": 23,
+        "shot_start": 4019,
+        "transition": false
+    },
+    "51": {
+        "categories": {
+            "SceneType": [
+                "Intro without text overlay"
+            ]
+        },
+        "sceneId": 3,
+        "shot_length": 1,
+        "shot_start": 4042,
+        "transition": false
+    },
+    "52": {
+        "categories": {
+            "SceneType": [
+                "Intro without text overlay"
+            ]
+        },
+        "sceneId": 3,
+        "shot_length": 18,
+        "shot_start": 4043,
+        "transition": false
+    },
+    "53": {
+        "categories": {
+            "SceneType": [
+                "Intro without text overlay"
+            ]
+        },
+        "sceneId": 3,
+        "shot_length": 1,
+        "shot_start": 4061,
+        "transition": false
+    },
+    "54": {
+        "categories": {
+            "SceneType": [
+                "Intro without text overlay"
+            ]
+        },
+        "sceneId": 3,
+        "shot_length": 25,
+        "shot_start": 4062,
+        "transition": false
+    },
+    "55": {
+        "categories": {
+            "SceneType": [
+                "Intro without text overlay"
+            ]
+        },
+        "sceneId": 3,
+        "shot_length": 24,
+        "shot_start": 4087,
+        "transition": false
+    },
+    "56": {
+        "categories": {
+            "SceneType": [
+                "Intro with text overlay"
+            ]
+        },
+        "sceneId": 3,
+        "shot_length": 24,
+        "shot_start": 4111,
+        "transition": false
+    },
+    "57": {
+        "categories": {
+            "SceneType": [
+                "Intro with text overlay"
+            ]
+        },
+        "sceneId": 3,
+        "shot_length": 27,
+        "shot_start": 4135,
+        "transition": false
+    },
+    "58": {
+        "categories": {
+            "SceneType": [
+                "Intro with text overlay"
+            ]
+        },
+        "sceneId": 3,
+        "shot_length": 1,
+        "shot_start": 4162,
+        "transition": false
+    },
+    "59": {
+        "categories": {
+            "SceneType": [
+                "Intro with text overlay"
+            ]
+        },
+        "sceneId": 3,
+        "shot_length": 27,
+        "shot_start": 4163,
+        "transition": false
+    },
+    "6": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Serious"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Ross Geller",
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                ">5"
+            ]
+        },
+        "sceneId": 0,
+        "shot_length": 41,
+        "shot_start": 474,
+        "transition": false
+    },
+    "60": {
+        "categories": {
+            "SceneType": [
+                "Intro with text overlay"
+            ]
+        },
+        "sceneId": 3,
+        "shot_length": 1,
+        "shot_start": 4190,
+        "transition": false
+    },
+    "61": {
+        "categories": {
+            "SceneType": [
+                "Intro with text overlay"
+            ]
+        },
+        "sceneId": 3,
+        "shot_length": 26,
+        "shot_start": 4191,
+        "transition": false
+    },
+    "62": {
+        "categories": {
+            "SceneType": [
+                "Intro with text overlay"
+            ]
+        },
+        "sceneId": 3,
+        "shot_length": 28,
+        "shot_start": 4217,
+        "transition": false
+    },
+    "63": {
+        "categories": {
+            "SceneType": [
+                "Intro with text overlay"
+            ]
+        },
+        "sceneId": 3,
+        "shot_length": 1,
+        "shot_start": 4245,
+        "transition": false
+    },
+    "64": {
+        "categories": {
+            "SceneType": [
+                "Intro with text overlay"
+            ]
+        },
+        "sceneId": 3,
+        "shot_length": 23,
+        "shot_start": 4246,
+        "transition": false
+    },
+    "65": {
+        "categories": {
+            "SceneType": [
+                "Intro with text overlay"
+            ]
+        },
+        "sceneId": 3,
+        "shot_length": 24,
+        "shot_start": 4269,
+        "transition": false
+    },
+    "66": {
+        "categories": {
+            "SceneType": [
+                "Intro with text overlay"
+            ]
+        },
+        "sceneId": 3,
+        "shot_length": 25,
+        "shot_start": 4293,
+        "transition": false
+    },
+    "67": {
+        "categories": {
+            "SceneType": [
+                "Intro with text overlay"
+            ]
+        },
+        "sceneId": 3,
+        "shot_length": 29,
+        "shot_start": 4318,
+        "transition": false
+    },
+    "68": {
+        "categories": {
+            "SceneType": [
+                "Intro without text overlay"
+            ]
+        },
+        "sceneId": 3,
+        "shot_length": 20,
+        "shot_start": 4347,
+        "transition": false
+    },
+    "69": {
+        "categories": {
+            "SceneType": [
+                "Intro without text overlay"
+            ]
+        },
+        "sceneId": 3,
+        "shot_length": 19,
+        "shot_start": 4367,
+        "transition": false
+    },
+    "7": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Sad"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 0,
+        "shot_length": 69,
+        "shot_start": 515,
+        "transition": false
+    },
+    "70": {
+        "categories": {
+            "SceneType": [
+                "Intro without text overlay"
+            ]
+        },
+        "sceneId": 3,
+        "shot_length": 44,
+        "shot_start": 4386,
+        "transition": false
+    },
+    "71": {
+        "caption": "Transition",
+        "sceneId": 4,
+        "shot_length": 181,
+        "shot_start": 4430,
+        "transition": true
+    },
+    "72": {
+        "categories": {
+            "Action": [
+                "Watching",
+                "Talking",
+                "Funny"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Text Overlay During Episode",
+                "Chandler Bing",
+                "Racheal Green"
+            ]
+        },
+        "sceneId": 4,
+        "shot_length": 113,
+        "shot_start": 4611,
+        "transition": false
+    },
+    "73": {
+        "categories": {
+            "Action": [
+                "Talking",
+                "Funny"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Confused"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Chandler Bing",
+                "Racheal Green"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 4,
+        "shot_length": 31,
+        "shot_start": 4724,
+        "transition": false
+    },
+    "74": {
+        "categories": {
+            "Action": [
+                "Frowning",
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Text Overlay During Episode",
+                "Chandler Bing",
+                "Racheal Green"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 4,
+        "shot_length": 83,
+        "shot_start": 4755,
+        "transition": false
+    },
+    "75": {
+        "categories": {
+            "Action": [
+                "Walking",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Phoebe Buffay",
+                "Text Overlay During Episode",
+                "Chandler Bing",
+                "Racheal Green"
+            ],
+            "NumPeople": [
+                ">5"
+            ]
+        },
+        "sceneId": 4,
+        "shot_length": 179,
+        "shot_start": 4838,
+        "transition": false
+    },
+    "76": {
+        "categories": {
+            "Action": [
+                "Frowning",
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Text Overlay During Episode",
+                "Racheal Green"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 4,
+        "shot_length": 275,
+        "shot_start": 5017,
+        "transition": false
+    },
+    "77": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Happy"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Phoebe Buffay"
+            ],
+            "NumPeople": [
+                "1"
+            ]
+        },
+        "sceneId": 4,
+        "shot_length": 32,
+        "shot_start": 5292,
+        "transition": false
+    },
+    "78": {
+        "categories": {
+            "Action": [
+                "Frowning",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Serious"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Text Overlay During Episode",
+                "Chandler Bing"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 4,
+        "shot_length": 171,
+        "shot_start": 5324,
+        "transition": false
+    },
+    "79": {
+        "categories": {
+            "Action": [
+                "Listening"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Phoebe Buffay"
+            ],
+            "NumPeople": [
+                "1"
+            ]
+        },
+        "sceneId": 4,
+        "shot_length": 29,
+        "shot_start": 5495,
+        "transition": false
+    },
+    "8": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Ross Geller"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 0,
+        "shot_length": 48,
+        "shot_start": 584,
+        "transition": false
+    },
+    "80": {
+        "categories": {
+            "Action": [
+                "Frowning",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Chandler Bing"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 4,
+        "shot_length": 28,
+        "shot_start": 5524,
+        "transition": false
+    },
+    "81": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Serious"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Phoebe Buffay"
+            ],
+            "NumPeople": [
+                "1"
+            ]
+        },
+        "sceneId": 4,
+        "shot_length": 43,
+        "shot_start": 5552,
+        "transition": false
+    },
+    "82": {
+        "categories": {
+            "Action": [
+                "Listening"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Text Overlay During Episode",
+                "Chandler Bing",
+                "Racheal Green"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 4,
+        "shot_length": 85,
+        "shot_start": 5595,
+        "transition": false
+    },
+    "83": {
+        "categories": {
+            "Action": [
+                "Frowning",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Chandler Bing"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 4,
+        "shot_length": 45,
+        "shot_start": 5680,
+        "transition": false
+    },
+    "84": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Happy"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Phoebe Buffay"
+            ],
+            "NumPeople": [
+                "1"
+            ]
+        },
+        "sceneId": 4,
+        "shot_length": 115,
+        "shot_start": 5725,
+        "transition": false
+    },
+    "85": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Happy",
+                "Surprise"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Racheal Green",
+                "Chandler Bing"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 4,
+        "shot_length": 100,
+        "shot_start": 5840,
+        "transition": false
+    },
+    "86": {
+        "categories": {
+            "Action": [
+                "Watching",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Serious"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Chandler Bing",
+                "Racheal Green"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 4,
+        "shot_length": 100,
+        "shot_start": 5940,
+        "transition": false
+    },
+    "87": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Racheal Green"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 4,
+        "shot_length": 29,
+        "shot_start": 6040,
+        "transition": false
+    },
+    "88": {
+        "categories": {
+            "Action": [
+                "Listening"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Chandler Bing"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 4,
+        "shot_length": 29,
+        "shot_start": 6069,
+        "transition": false
+    },
+    "89": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Phoebe Buffay"
+            ],
+            "NumPeople": [
+                "1"
+            ]
+        },
+        "sceneId": 4,
+        "shot_length": 58,
+        "shot_start": 6098,
+        "transition": false
+    },
+    "9": {
+        "categories": {
+            "Action": [
+                "Talking",
+                "Mimicking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Denial/Disapproval"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Ross Geller",
+                "Joey Tribianni"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 0,
+        "shot_length": 66,
+        "shot_start": 632,
+        "transition": false
+    },
+    "90": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Happy"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Racheal Green"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 4,
+        "shot_length": 24,
+        "shot_start": 6156,
+        "transition": false
+    },
+    "91": {
+        "categories": {
+            "Action": [
+                "Mimicking",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Disgust"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Chandler Bing"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 4,
+        "shot_length": 113,
+        "shot_start": 6180,
+        "transition": false
+    },
+    "92": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Phoebe Buffay"
+            ],
+            "NumPeople": [
+                "1"
+            ]
+        },
+        "sceneId": 4,
+        "shot_length": 44,
+        "shot_start": 6293,
+        "transition": false
+    },
+    "93": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Racheal Green"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 4,
+        "shot_length": 33,
+        "shot_start": 6337,
+        "transition": false
+    },
+    "94": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Phoebe Buffay"
+            ],
+            "NumPeople": [
+                "1"
+            ]
+        },
+        "sceneId": 4,
+        "shot_length": 37,
+        "shot_start": 6370,
+        "transition": false
+    },
+    "95": {
+        "categories": {
+            "Action": [
+                "Chuckling",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Wide Angle"
+            ],
+            "Emotion": [
+                "Surprise"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Chandler Bing",
+                "Racheal Green"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 4,
+        "shot_length": 28,
+        "shot_start": 6407,
+        "transition": false
+    },
+    "96": {
+        "categories": {
+            "Action": [
+                "Talking",
+                "Laughing"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Happy"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Phoebe Buffay"
+            ],
+            "NumPeople": [
+                "1"
+            ]
+        },
+        "sceneId": 4,
+        "shot_length": 137,
+        "shot_start": 6435,
+        "transition": false
+    },
+    "97": {
+        "categories": {
+            "Action": [
+                "Frowning",
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Serious"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Racheal Green"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 4,
+        "shot_length": 64,
+        "shot_start": 6572,
+        "transition": false
+    },
+    "98": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Serious"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Chandler Bing"
+            ],
+            "NumPeople": [
+                "2-5"
+            ]
+        },
+        "sceneId": 4,
+        "shot_length": 92,
+        "shot_start": 6636,
+        "transition": false
+    },
+    "99": {
+        "categories": {
+            "Action": [
+                "Talking"
+            ],
+            "Camera Angle": [
+                "Close"
+            ],
+            "Emotion": [
+                "Denial/Disapproval"
+            ],
+            "Location": [
+                "Cafe"
+            ],
+            "Main Entities": [
+                "Phoebe Buffay"
+            ],
+            "NumPeople": [
+                "2"
+            ]
+        },
+        "sceneId": 4,
+        "shot_length": 172,
+        "shot_start": 6728,
+        "transition": false
+    },
+    "duration": 1295,
+    "fps": 25,
+    "num_frames": 32375,
+    "num_scenes": 16,
+    "num_snippets": 327,
+    "snippet_size": 5,
+    "video_category": "friends",
+    "video_name": "friends_16.avi"
+}
