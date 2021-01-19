@@ -8,11 +8,11 @@ algo = ["dr-dsn","vasnet-last","vasnet-max","vslstm-max","vslstm-last"]
 for domain in domains:
     for budget in budgets:
         for al in algo:
-            path = os.path.join(root_dir,domain,algo)
+            path = os.path.join(root_dir,domain,budget,al)
             cp_path = os.path.join(rdir,"submission"+al,domain,budget,"dr-dsn")
             cmd = "mkdir -p {}".format(cp_path)
             print(cmd)
             os.system(cmd)
-            cmd2 = "cp {}/* {}/*".format(path,cp_path)
+            cmd2 = "cp {}/* {}/".format(path,cp_path)
             print(cmd2)
             os.system(cmd2)
