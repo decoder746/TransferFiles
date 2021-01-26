@@ -13,7 +13,7 @@ for domain in domains:
             for video in videos:
                 video_name = os.listdir(os.path.join(root_dir,domain,budget,al,video))[0]
                 video_path = os.path.join(root_dir,domain,budget,al,video,video_name)
-                new_summary_video = video+"_dr-dsn_"+budget
+                new_summary_video = video+"_dr-dsn_"+budget+".json"
                 cp_dir = os.path.join(rdir,"submission"+al,domain,budget,"dr-dsn")
                 cp_path = os.path.join(rdir,"submission"+al,domain,budget,"dr-dsn",new_summary_video)
                 cmd = "mkdir -p {}".format(cp_dir)
